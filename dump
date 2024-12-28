@@ -1,0 +1,41 @@
+# # pie chart plot
+# def plot_pie_chart(values: list, labels: list, title:str, colors = plt.cm.Paired.colors, ax=None):
+#     plt.pie(values, labels=labels, 
+#             wedgeprops={'edgecolor': 'black', 'linewidth': 0.5}, 
+#             textprops={'fontsize': 12, 'weight': 'bold'}, 
+#             colors = colors,
+#             ax=ax,
+#             autopct='%1.2f%%');
+#     plt.title(title, fontsize=16, weight='bold', color='darkblue')
+
+# def plot_doughnut_chart(values: list, labels: list, title:str, colors = sns.color_palette("muted"),ax=None):
+#     plt.pie(values, labels=labels, 
+#             wedgeprops={'edgecolor': 'black', 'linewidth': 0.5, 'width': 0.3}, 
+#             textprops={'fontsize': 12, 'weight': 'bold'}, 
+#             colors = colors,
+#             ax=ax,
+#             startangle=90, 
+#             autopct='%1.2f%%');
+#     plt.title(title, fontsize=16, weight='bold', color='darkblue')
+
+# # bar chart plot function
+# def plot_bar_chart(x:list,y:list, title:str,ax=None):
+#     plt.bar(x = x, height = y,
+#             color=plt.cm.Paired(range(len(x))), 
+#             edgecolor='black', 
+#             ax=ax,
+#             linewidth=0.8);
+#     plt.title(title, fontsize=14, weight='bold', color='darkblue')
+#     plt.xticks(rotation=60, fontsize=10);
+#     plt.grid(True, axis='y', linestyle='--', linewidth=0.7, alpha=0.7)
+#     for index, value in enumerate(y):
+#         plt.text(x=int(index), y=value + 0.02 * max(y), s=f'{str(round(value, 3))}', ha='center');
+
+# # count plot function
+# def plot_count_plot(data: DataFrame, x:str, title:str, ax=None):
+#     plt.figure(figsize=(10, 6))
+#     sns.countplot(data=data, x=x, palette='Set2', ax=ax)
+#     plt.title(title, fontsize=18, weight='bold', color='#2e4053')
+#     plt.xticks(rotation=45, fontsize=12, color='#34495e')
+#     plt.grid(True, axis='y', linestyle='--', linewidth=0.7, alpha=0.7)
+#     plt.tight_layout()
