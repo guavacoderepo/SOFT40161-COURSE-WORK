@@ -1,3 +1,5 @@
+## Overview
+
 In this coursework, I analyze mental health cases among employees from various organizations or companies using a free Kaggle dataset. The dataset contains 27 columns, from which 11 were selected for analysis. These columns provide key information on the employees’ mental health status and support.
 
 - Age, Country, and Gender: Provides demographic details such as age, region, and gender.
