@@ -1,0 +1,1205 @@
+s/n,Age,Gender,Country,self_employed,family_history,treatment,no_employees,wellness_program,leave,care_options,obs_consequence,Continents,YearMonth
+0,31-40,Female,United States,No,No,Yes,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+1,41-50,Male,United States,No,No,No,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+2,31-40,Male,Canada,No,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+3,31-40,Male,United Kingdom,No,Yes,Yes,26-100,No,Somewhat difficult,Yes,Yes,Europe,2014-08
+4,31-40,Male,United States,No,No,No,100-500,Don't know,Don't know,No,No,North America,2014-08
+5,31-40,Male,United States,No,Yes,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+6,31-40,Female,United States,No,Yes,Yes,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+7,31-40,Male,Canada,No,No,No,Less than 26,No,Don't know,Yes,No,North America,2014-08
+8,41-50,Female,United States,No,Yes,Yes,100-500,No,Very difficult,Yes,No,North America,2014-08
+9,21-30,Male,Canada,No,No,No,26-100,Don't know,Don't know,No,No,North America,2014-08
+10,31-40,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+11,21-30,Male,Bulgaria,No,No,No,100-500,No,Don't know,Not sure,No,Europe,2014-08
+12,41-50,Female,United States,No,Yes,Yes,26-100,No,Somewhat difficult,Yes,Yes,North America,2014-08
+13,31-40,Male,United States,No,Yes,No,500-1000,No,Don't know,Not sure,No,North America,2014-08
+14,21-30,Male,Canada,No,No,No,Less than 26,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+15,21-30,Female,United States,No,Yes,Yes,26-100,No,Somewhat easy,Not sure,No,North America,2014-08
+16,21-30,Male,United Kingdom,No,No,Yes,26-100,Don't know,Very easy,No,No,Europe,2014-08
+17,31-40,Male,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+18,41-50,Male,United States,Yes,Yes,No,Less than 26,Yes,Very easy,Not sure,Yes,North America,2014-08
+19,31-40,Male,France,Yes,Yes,No,Less than 26,Yes,Somewhat easy,No,No,Europe,2014-08
+20,21-30,Male,United States,No,Yes,Yes,100-500,No,Somewhat difficult,Yes,No,North America,2014-08
+21,31-40,Male,United States,Yes,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+22,41-50,Male,United States,No,No,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+23,41-50,Male,United States,No,No,Yes,More than 1000,No,Don't know,No,No,North America,2014-08
+24,31-40,Male,United States,No,Yes,Yes,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+25,31-40,Male,United States,No,Yes,Yes,More than 1000,No,Very easy,Yes,No,North America,2014-08
+26,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+27,31-40,Female,United States,No,Yes,Yes,Less than 26,Don't know,Don't know,Yes,No,North America,2014-08
+28,31-40,Male,United States,No,No,Yes,26-100,No,Somewhat difficult,Not sure,No,North America,2014-08
+29,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Very difficult,No,No,Europe,2014-08
+30,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+31,31-40,Male,United States,Yes,Yes,No,Less than 26,No,Somewhat difficult,Yes,Yes,North America,2014-08
+32,21-30,Male,United Kingdom,No,Yes,Yes,500-1000,No,Somewhat easy,No,No,Europe,2014-08
+33,41-50,Male,United States,No,Yes,Yes,26-100,Yes,Very easy,Yes,No,North America,2014-08
+34,31-40,Female,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+35,21-30,Male,United States,No,No,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+36,21-30,Male,Canada,No,No,No,Less than 26,No,Very easy,No,No,North America,2014-08
+37,31-40,Male,Portugal,No,No,No,100-500,No,Somewhat easy,Yes,No,Europe,2014-08
+38,41-50,Male,United States,No,No,No,100-500,No,Don't know,Yes,No,North America,2014-08
+39,31-40,Male,United States,No,No,Yes,More than 1000,No,Very easy,Yes,No,North America,2014-08
+40,21-30,Male,United Kingdom,No,No,Yes,Less than 26,No,Don't know,No,Yes,Europe,2014-08
+41,31-40,Male,United States,No,No,No,More than 1000,Don't know,Somewhat difficult,Not sure,No,North America,2014-08
+42,21-30,Male,Canada,No,Yes,Yes,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+43,20 down,Male,Netherlands,No,No,No,Less than 26,No,Somewhat difficult,Not sure,No,Europe,2014-08
+44,21-30,Male,United States,No,No,Yes,26-100,No,Don't know,No,No,North America,2014-08
+45,31-40,Female,United States,No,Yes,Yes,26-100,No,Somewhat easy,Yes,No,North America,2014-08
+46,21-30,Male,United Kingdom,No,No,No,26-100,No,Don't know,Not sure,No,Europe,2014-08
+47,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+48,21-30,Male,Canada,Yes,No,No,Less than 26,Yes,Don't know,Yes,No,North America,2014-08
+49,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+50,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+51,31-40,Male,United States,No,No,No,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+52,31-40,Male,United States,No,No,No,100-500,Don't know,Don't know,No,No,North America,2014-08
+53,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+54,21-30,Male,Switzerland,No,No,No,100-500,No,Don't know,No,No,Europe,2014-08
+55,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+56,31-40,Male,United States,No,Yes,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+57,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+58,21-30,Male,United States,No,No,No,26-100,No,Somewhat easy,No,No,North America,2014-08
+59,31-40,Male,Canada,No,Yes,Yes,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+60,41-50,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,No,Yes,North America,2014-08
+61,21-30,Female,Poland,No,No,Yes,26-100,Yes,Very easy,Not sure,No,Europe,2014-08
+62,21-30,Male,United Kingdom,No,No,No,100-500,No,Somewhat easy,Not sure,No,Europe,2014-08
+63,21-30,Male,France,No,No,No,26-100,No,Very easy,No,Yes,Europe,2014-08
+64,31-40,Male,Canada,No,No,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+65,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+66,21-30,Female,Australia,No,Yes,Yes,Less than 26,No,Very easy,Not sure,No,Oceania,2014-08
+67,31-40,Male,United States,No,No,No,100-500,Don't know,Don't know,No,No,North America,2014-08
+68,31-40,Female,United States,No,No,No,26-100,Don't know,Don't know,No,No,North America,2014-08
+69,31-40,Male,United States,Yes,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+70,21-30,Male,France,No,No,No,26-100,No,Don't know,No,No,Europe,2014-08
+71,31-40,Male,Canada,No,No,No,Less than 26,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+72,21-30,Female,United States,No,No,No,More than 1000,No,Somewhat difficult,Yes,No,North America,2014-08
+73,31-40,Male,United Kingdom,No,No,No,26-100,No,Somewhat easy,No,No,Europe,2014-08
+74,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+75,20 down,Male,United Kingdom,No,No,No,Less than 26,No,Somewhat difficult,Yes,No,Europe,2014-08
+76,21-30,Male,United States,No,No,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+77,31-40,Male,United States,Yes,Yes,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+78,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat difficult,No,No,North America,2014-08
+79,21-30,Male,Germany,No,No,No,Less than 26,Don't know,Very easy,No,No,Europe,2014-08
+80,31-40,Male,United States,No,Yes,No,100-500,No,Don't know,Yes,No,North America,2014-08
+81,21-30,Male,United Kingdom,No,No,No,26-100,Yes,Very easy,Not sure,No,Europe,2014-08
+82,21-30,Male,Canada,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+83,21-30,Female,United States,Yes,No,Yes,Less than 26,Yes,Very easy,Yes,No,North America,2014-08
+84,31-40,Male,United States,No,Yes,No,More than 1000,No,Don't know,No,No,North America,2014-08
+85,31-40,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+86,31-40,Male,United Kingdom,Yes,No,Yes,Less than 26,No,Very difficult,No,Yes,Europe,2014-08
+87,31-40,Female,United States,No,Yes,Yes,500-1000,No,Don't know,Not sure,No,North America,2014-08
+88,21-30,Female,United States,No,No,Yes,26-100,No,Don't know,Yes,Yes,North America,2014-08
+89,31-40,Male,United States,No,No,No,500-1000,No,Don't know,No,No,North America,2014-08
+90,31-40,Male,United States,No,No,No,500-1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+91,31-40,Male,United States,No,No,Yes,26-100,No,Very difficult,Yes,No,North America,2014-08
+92,31-40,Male,United States,No,No,No,26-100,No,Somewhat easy,No,No,North America,2014-08
+93,20 down,Male,Russia,No,No,No,26-100,No,Somewhat easy,Yes,No,Europe,2014-08
+94,21-30,Female,Canada,No,No,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+95,21-30,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+96,21-30,Male,United States,No,Yes,No,26-100,No,Somewhat easy,Not sure,No,North America,2014-08
+97,31-40,Male,Mexico,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+98,31-40,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+99,21-30,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+100,21-30,Female,Canada,No,Yes,Yes,26-100,No,Very difficult,Yes,Yes,North America,2014-08
+101,41-50,Female,United States,No,No,No,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+102,21-30,Male,United States,No,Yes,No,26-100,Don't know,Very easy,No,No,North America,2014-08
+103,31-40,Male,United States,No,Yes,Yes,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+104,21-30,Male,United States,No,No,No,More than 1000,Yes,Somewhat easy,Not sure,No,North America,2014-08
+105,31-40,Male,United States,No,Yes,No,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+106,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,Not sure,No,North America,2014-08
+107,21-30,Male,Brazil,No,Yes,Yes,Less than 26,No,Don't know,No,Yes,South America,2014-08
+108,31-40,Male,United States,No,Yes,No,Less than 26,No,Don't know,No,No,North America,2014-08
+109,31-40,Male,United States,No,No,Yes,26-100,Yes,Somewhat difficult,No,No,North America,2014-08
+110,21-30,Male,United States,No,No,Yes,500-1000,No,Don't know,Yes,No,North America,2014-08
+111,21-30,Male,United States,No,No,Yes,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+112,41-50,Male,United States,No,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+113,31-40,Male,United States,No,No,No,100-500,No,Don't know,Yes,No,North America,2014-08
+114,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+115,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Very easy,No,Yes,Europe,2014-08
+116,21-30,Male,United Kingdom,Yes,No,No,Less than 26,No,Very difficult,Yes,No,Europe,2014-08
+117,21-30,Male,Canada,No,No,No,Less than 26,Yes,Very easy,Yes,No,North America,2014-08
+118,20 down,Male,United States,No,No,Yes,Less than 26,No,Very easy,No,No,North America,2014-08
+119,31-40,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+120,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,Yes,No,North America,2014-08
+121,21-30,Male,United States,No,No,No,26-100,No,Very easy,No,No,North America,2014-08
+122,31-40,Male,United States,No,Yes,Yes,Less than 26,Don't know,Very easy,No,No,North America,2014-08
+123,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+124,21-30,Male,Canada,No,No,Yes,100-500,No,Very difficult,Not sure,Yes,North America,2014-08
+125,21-30,Male,United States,No,Yes,No,500-1000,Yes,Don't know,No,No,North America,2014-08
+126,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+127,31-40,Male,United States,No,No,Yes,100-500,No,Don't know,Yes,No,North America,2014-08
+128,31-40,Male,United Kingdom,No,Yes,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+129,20 down,Male,Slovenia,No,No,Yes,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+130,31-40,Male,United States,No,Yes,Yes,More than 1000,No,Very easy,Yes,No,North America,2014-08
+131,31-40,Male,United States,No,No,No,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+132,21-30,Male,United States,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+133,31-40,Male,Costa Rica,No,No,No,26-100,No,Somewhat easy,Yes,No,North America,2014-08
+134,21-30,Male,Canada,No,No,Yes,26-100,No,Don't know,No,No,North America,2014-08
+135,31-40,Male,United Kingdom,No,No,No,26-100,No,Don't know,No,No,Europe,2014-08
+136,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+137,31-40,Male,United States,No,No,Yes,More than 1000,No,Somewhat easy,Not sure,No,North America,2014-08
+138,21-30,Female,United States,No,No,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+139,21-30,Male,Austria,No,No,No,Less than 26,Don't know,Somewhat easy,No,No,Europe,2014-08
+140,31-40,Male,United States,No,Yes,Yes,100-500,Don't know,Don't know,No,No,North America,2014-08
+141,31-40,Male,United Kingdom,Yes,No,Yes,More than 1000,Yes,Very difficult,Yes,No,Europe,2014-08
+142,31-40,Male,United States,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+143,20 down,Male,United States,No,No,No,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+144,21-30,Female,United States,No,Yes,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+145,31-40,Male,United States,No,Yes,Yes,100-500,Yes,Somewhat easy,Yes,No,North America,2014-08
+146,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+147,21-30,Male,United States,No,No,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+148,21-30,Male,Ireland,No,No,Yes,100-500,Yes,Somewhat easy,Yes,Yes,Europe,2014-08
+149,21-30,Female,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+150,20 down,Male,Canada,Yes,Yes,No,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+151,31-40,Male,United States,No,Yes,No,26-100,No,Very easy,Not sure,No,North America,2014-08
+152,21-30,Male,Poland,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+153,31-40,Male,United States,No,No,No,Less than 26,Don't know,Don't know,Not sure,No,North America,2014-08
+154,31-40,Male,United Kingdom,No,Yes,Yes,More than 1000,Yes,Somewhat difficult,Yes,Yes,Europe,2014-08
+155,21-30,Male,United States,No,Yes,Yes,26-100,No,Somewhat difficult,No,No,North America,2014-08
+156,21-30,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,No,No,North America,2014-08
+157,21-30,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+158,21-30,Male,United States,No,No,Yes,26-100,No,Somewhat difficult,Yes,Yes,North America,2014-08
+159,21-30,Male,United States,No,Yes,Yes,26-100,No,Very easy,Not sure,Yes,North America,2014-08
+160,31-40,Male,United Kingdom,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,Yes,Europe,2014-08
+161,21-30,Female,United States,No,Yes,Yes,500-1000,No,Don't know,No,No,North America,2014-08
+162,31-40,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+163,21-30,Male,United States,No,Yes,No,Less than 26,No,Don't know,No,No,North America,2014-08
+164,31-40,Female,United States,Yes,Yes,Yes,Less than 26,Yes,Very difficult,Yes,No,North America,2014-08
+165,21-30,Female,United Kingdom,Yes,Yes,No,Less than 26,No,Somewhat easy,Yes,No,Europe,2014-08
+166,31-40,Male,United States,No,No,No,26-100,No,Very easy,No,No,North America,2014-08
+167,41-50,Male,United States,No,No,No,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+168,21-30,Male,Ireland,Yes,Yes,No,Less than 26,No,Very difficult,No,No,Europe,2014-08
+169,21-30,Male,United Kingdom,No,No,No,100-500,Yes,Very easy,Not sure,No,Europe,2014-08
+170,21-30,Male,United Kingdom,No,No,Yes,More than 1000,Don't know,Somewhat easy,Yes,No,Europe,2014-08
+171,31-40,Male,United Kingdom,Yes,No,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+172,21-30,Male,India,No,No,Yes,More than 1000,No,Very difficult,Not sure,No,Asia,2014-08
+173,21-30,Female,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+174,31-40,Female,Canada,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+175,31-40,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+176,21-30,Male,United Kingdom,No,No,No,100-500,No,Somewhat easy,Not sure,No,Europe,2014-08
+177,31-40,Female,United States,No,No,Yes,Less than 26,Don't know,Very easy,Not sure,Yes,North America,2014-08
+178,41-50,Female,United States,No,No,Yes,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+179,31-40,Male,United States,No,No,No,Less than 26,No,Very easy,No,No,North America,2014-08
+180,21-30,Male,Mexico,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+181,21-30,Female,India,Yes,No,No,Less than 26,No,Somewhat easy,No,No,Asia,2014-08
+182,21-30,Female,United Kingdom,No,No,No,26-100,No,Somewhat easy,No,No,Europe,2014-08
+183,41-50,Male,United States,No,No,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+184,41-50,Male,United States,No,Yes,Yes,More than 1000,No,Very difficult,Not sure,No,North America,2014-08
+185,31-40,Male,United States,No,No,No,500-1000,No,Don't know,No,No,North America,2014-08
+186,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+187,21-30,Male,France,No,No,No,Less than 26,No,Somewhat easy,Yes,No,Europe,2014-08
+188,21-30,Male,United Kingdom,No,Yes,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+189,31-40,Female,United States,No,Yes,Yes,More than 1000,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+190,31-40,Female,South Africa,Yes,Yes,Yes,Less than 26,No,Somewhat easy,Yes,Yes,Africa,2014-08
+191,21-30,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,No,No,North America,2014-08
+192,21-30,Male,Russia,No,No,No,26-100,No,Don't know,No,No,Europe,2014-08
+193,31-40,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+194,31-40,Female,Germany,No,No,No,100-500,No,Very difficult,No,Yes,Europe,2014-08
+195,31-40,Male,Italy,Yes,Yes,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+196,31-40,Female,United States,No,No,No,500-1000,No,Don't know,Not sure,No,North America,2014-08
+197,21-30,Male,United States,No,No,No,More than 1000,No,Somewhat easy,No,No,North America,2014-08
+198,21-30,Male,United States,No,Yes,No,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+199,21-30,Male,United Kingdom,No,Yes,Yes,More than 1000,No,Don't know,No,No,Europe,2014-08
+200,21-30,Female,United States,No,Yes,Yes,26-100,No,Very easy,No,No,North America,2014-08
+201,31-40,Female,United States,No,No,Yes,500-1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+202,41-50,Male,United States,No,No,Yes,Less than 26,No,Very difficult,Not sure,No,North America,2014-08
+203,31-40,Male,Ireland,No,No,No,Less than 26,No,Very difficult,Yes,No,Europe,2014-08
+204,31-40,Male,Austria,No,Yes,No,100-500,Don't know,Very easy,No,No,Europe,2014-08
+205,31-40,Male,United Kingdom,No,Yes,Yes,100-500,No,Somewhat difficult,Not sure,Yes,Europe,2014-08
+206,21-30,Male,Canada,No,No,Yes,Less than 26,No,Somewhat difficult,Yes,No,North America,2014-08
+207,21-30,Male,United States,No,No,Yes,26-100,No,Somewhat easy,Yes,No,North America,2014-08
+208,21-30,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+209,21-30,Male,Bulgaria,No,No,No,100-500,No,Very easy,No,No,Europe,2014-08
+210,31-40,Female,United States,No,No,No,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+211,31-40,Male,United Kingdom,No,Yes,No,26-100,No,Don't know,No,No,Europe,2014-08
+212,21-30,Male,United Kingdom,Yes,No,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+213,31-40,Female,United States,No,Yes,Yes,Less than 26,No,Don't know,No,Yes,North America,2014-08
+214,31-40,Female,United States,No,No,Yes,100-500,Don't know,Very easy,Yes,No,North America,2014-08
+215,21-30,Female,United States,Yes,Yes,Yes,Less than 26,Don't know,Very difficult,No,No,North America,2014-08
+216,21-30,Male,Germany,Yes,No,Yes,Less than 26,No,Very difficult,Yes,No,Europe,2014-08
+217,31-40,Male,Canada,Yes,No,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+218,21-30,Female,United States,No,No,Yes,500-1000,No,Somewhat difficult,No,No,North America,2014-08
+219,41-50,Male,United States,No,No,No,26-100,No,Very easy,Not sure,No,North America,2014-08
+220,31-40,Female,United States,No,No,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+221,31-40,Male,United Kingdom,No,No,No,26-100,No,Don't know,No,No,Europe,2014-08
+222,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+223,21-30,Male,United States,No,No,Yes,More than 1000,No,Very difficult,Yes,No,North America,2014-08
+224,21-30,Male,United States,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+225,21-30,Male,United States,No,No,No,Less than 26,Don't know,Very easy,No,No,North America,2014-08
+226,31-40,Male,United States,No,No,No,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+227,31-40,Male,Australia,Yes,No,No,Less than 26,Yes,Somewhat difficult,Not sure,No,Oceania,2014-08
+228,21-30,Male,United States,No,No,No,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+229,21-30,Male,United Kingdom,Yes,No,Yes,Less than 26,No,Don't know,Yes,No,Europe,2014-08
+230,31-40,Male,United States,No,No,Yes,26-100,No,Don't know,No,Yes,North America,2014-08
+231,41-50,Male,United States,No,No,Yes,500-1000,No,Don't know,Yes,No,North America,2014-08
+232,31-40,Male,United Kingdom,No,No,Yes,More than 1000,Don't know,Very difficult,Not sure,No,Europe,2014-08
+233,31-40,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+234,21-30,Male,Netherlands,No,No,No,26-100,Don't know,Somewhat easy,No,No,Europe,2014-08
+235,21-30,Male,United Kingdom,No,No,No,26-100,No,Somewhat difficult,No,No,Europe,2014-08
+236,31-40,Male,Canada,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+237,31-40,Male,United Kingdom,No,Yes,No,Less than 26,No,Somewhat difficult,No,Yes,Europe,2014-08
+238,31-40,Female,United States,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+239,21-30,Female,Canada,No,Yes,Yes,Less than 26,Yes,Don't know,Yes,Yes,North America,2014-08
+240,21-30,Male,Sweden,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+241,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat difficult,No,Yes,North America,2014-08
+242,31-40,Male,United States,No,Yes,Yes,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+243,21-30,Male,South Africa,No,No,No,Less than 26,No,Somewhat difficult,No,No,Africa,2014-08
+244,21-30,Male,United States,No,No,No,More than 1000,Don't know,Somewhat easy,Yes,No,North America,2014-08
+245,31-40,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+246,21-30,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+247,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+248,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+249,21-30,Female,United States,No,Yes,Yes,500-1000,Yes,Don't know,Yes,No,North America,2014-08
+250,21-30,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,No,No,North America,2014-08
+251,21-30,Male,United States,No,Yes,No,100-500,No,Somewhat easy,No,Yes,North America,2014-08
+252,31-40,Male,United States,No,Yes,Yes,100-500,Yes,Very easy,Yes,No,North America,2014-08
+253,21-30,Male,United Kingdom,No,No,No,100-500,Don't know,Very easy,Not sure,No,Europe,2014-08
+254,21-30,Male,United States,No,No,No,Less than 26,Don't know,Don't know,No,No,North America,2014-08
+255,21-30,Male,Canada,No,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+256,21-30,Female,United Kingdom,No,No,Yes,Less than 26,Don't know,Don't know,Not sure,No,Europe,2014-08
+257,41-50,Male,United States,No,No,No,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+258,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+259,21-30,Male,Australia,No,Yes,Yes,Less than 26,No,Very difficult,Yes,Yes,Oceania,2014-08
+260,21-30,Female,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+261,21-30,Male,Canada,No,No,No,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+262,21-30,Male,United States,No,No,Yes,100-500,No,Don't know,Yes,No,North America,2014-08
+263,21-30,Male,Poland,No,Yes,Yes,Less than 26,No,Very difficult,Yes,No,Europe,2014-08
+264,41-50,Male,Canada,Yes,No,No,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+265,31-40,Male,United States,No,No,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+266,41-50,Male,United States,No,No,Yes,26-100,Don't know,Very easy,Yes,No,North America,2014-08
+267,31-40,Male,United Kingdom,Yes,Yes,Yes,Less than 26,Don't know,Very easy,Not sure,Yes,Europe,2014-08
+268,31-40,Female,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+269,31-40,Male,United States,No,No,No,Less than 26,No,Very easy,No,No,North America,2014-08
+270,21-30,Male,Ireland,Yes,No,No,Less than 26,No,Somewhat difficult,No,No,Europe,2014-08
+271,21-30,Female,United States,No,Yes,Yes,100-500,Don't know,Don't know,No,No,North America,2014-08
+272,21-30,Male,United States,No,No,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+273,31-40,Male,United Kingdom,No,No,No,26-100,No,Somewhat easy,Yes,No,Europe,2014-08
+274,31-40,Male,United States,No,No,Yes,26-100,No,Don't know,No,No,North America,2014-08
+275,31-40,Male,Canada,No,No,No,100-500,Yes,Don't know,No,No,North America,2014-08
+276,31-40,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+277,21-30,Male,Colombia,No,No,No,Less than 26,No,Somewhat easy,Yes,No,South America,2014-08
+278,21-30,Male,United States,No,No,Yes,100-500,Yes,Very easy,Yes,No,North America,2014-08
+279,21-30,Male,United States,No,Yes,No,100-500,No,Don't know,No,No,North America,2014-08
+280,21-30,Male,Australia,Yes,Yes,Yes,Less than 26,Yes,Somewhat easy,Not sure,Yes,Oceania,2014-08
+281,21-30,Male,Portugal,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+282,20 down,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+283,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat difficult,Yes,No,North America,2014-08
+284,21-30,Male,Canada,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+285,21-30,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+286,21-30,Female,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+287,20 down,Male,United States,No,No,No,26-100,Don't know,Very easy,Not sure,No,North America,2014-08
+288,31-40,Female,United States,No,No,Yes,Less than 26,No,Don't know,Yes,Yes,North America,2014-08
+289,21-30,Female,United States,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+290,21-30,Male,Switzerland,Yes,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+291,31-40,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+292,41-50,Male,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+293,31-40,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+294,51 up,Male,United States,No,No,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+295,21-30,Female,United States,No,No,No,500-1000,No,Don't know,Not sure,No,North America,2014-08
+296,21-30,Female,United States,No,Yes,Yes,26-100,Yes,Very easy,Yes,No,North America,2014-08
+297,51 up,Male,United States,No,No,No,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+298,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,No,No,North America,2014-08
+299,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+300,21-30,Female,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+301,31-40,Female,United States,No,No,Yes,More than 1000,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+302,21-30,Male,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+303,21-30,Female,United States,No,Yes,Yes,100-500,Yes,Somewhat easy,Yes,No,North America,2014-08
+304,31-40,Female,United States,No,No,Yes,More than 1000,Don't know,Somewhat easy,Yes,No,North America,2014-08
+305,21-30,Male,Canada,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+306,21-30,Others,United States,No,Yes,Yes,26-100,No,Somewhat easy,Not sure,No,North America,2014-08
+307,21-30,Male,United States,No,No,No,26-100,No,Don't know,No,Yes,North America,2014-08
+308,21-30,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+309,21-30,Male,United States,No,No,No,100-500,Yes,Don't know,Not sure,No,North America,2014-08
+310,21-30,Male,Canada,No,No,Yes,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+311,31-40,Male,United States,No,No,Yes,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+312,31-40,Male,United States,Yes,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+313,21-30,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+314,21-30,Male,United States,No,Yes,No,More than 1000,Don't know,Very easy,No,No,North America,2014-08
+315,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+316,21-30,Male,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+317,21-30,Male,United States,No,No,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+318,21-30,Female,United States,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,Yes,North America,2014-08
+319,21-30,Male,Latvia,No,No,No,26-100,No,Somewhat easy,Yes,No,Europe,2014-08
+320,41-50,Male,United States,No,Yes,Yes,100-500,Don't know,Somewhat easy,Yes,No,North America,2014-08
+321,21-30,Male,United States,No,No,Yes,More than 1000,No,Don't know,No,No,North America,2014-08
+322,31-40,Male,United States,No,No,No,500-1000,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+323,21-30,Female,United States,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+324,21-30,Male,United States,No,No,Yes,Less than 26,Don't know,Don't know,No,No,North America,2014-08
+325,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+326,21-30,Female,United States,No,No,No,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+327,21-30,Male,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+328,21-30,Male,United States,Yes,No,No,Less than 26,No,Don't know,Yes,No,North America,2014-08
+329,31-40,Male,Germany,Yes,Yes,Yes,Less than 26,No,Somewhat difficult,No,Yes,Europe,2014-08
+330,21-30,Male,United States,No,No,No,26-100,Yes,Very easy,Not sure,No,North America,2014-08
+331,21-30,Male,Canada,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+332,31-40,Male,United States,No,No,No,100-500,No,Somewhat easy,No,No,North America,2014-08
+333,41-50,Male,Ireland,Yes,No,Yes,Less than 26,No,Very difficult,No,No,Europe,2014-08
+334,21-30,Male,Romania,No,No,No,Less than 26,No,Don't know,Yes,No,Europe,2014-08
+335,41-50,Male,United States,No,No,No,26-100,Yes,Very easy,Not sure,No,North America,2014-08
+336,21-30,Male,United Kingdom,No,No,Yes,26-100,No,Don't know,No,No,Europe,2014-08
+337,21-30,Female,United States,Yes,No,No,More than 1000,Don't know,Very easy,Not sure,No,North America,2014-08
+338,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+339,21-30,Male,United States,No,No,No,26-100,Yes,Very easy,Yes,No,North America,2014-08
+340,31-40,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+341,31-40,Female,United States,No,Yes,No,26-100,No,Very difficult,Yes,No,North America,2014-08
+342,21-30,Male,United States,No,No,No,More than 1000,Don't know,Very easy,Not sure,No,North America,2014-08
+343,31-40,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+344,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+345,21-30,Female,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+346,21-30,Male,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+347,51 up,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,No,No,North America,2014-08
+348,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+349,21-30,Others,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+350,21-30,Male,Belgium,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+351,21-30,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+352,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+353,21-30,Male,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+354,21-30,Female,Sweden,No,Yes,No,Less than 26,Yes,Somewhat easy,Yes,No,Europe,2014-08
+355,31-40,Male,United States,No,No,Yes,500-1000,No,Don't know,Yes,No,North America,2014-08
+356,31-40,Male,United States,No,Yes,Yes,26-100,No,Don't know,Not sure,No,North America,2014-08
+357,31-40,Male,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+358,31-40,Male,United States,No,No,Yes,100-500,No,Somewhat easy,No,No,North America,2014-08
+359,21-30,Male,United States,Yes,No,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+360,31-40,Female,United States,No,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+361,31-40,Male,Germany,Yes,Yes,Yes,26-100,No,Somewhat difficult,No,No,Europe,2014-08
+362,21-30,Male,United States,Yes,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+363,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+364,51 up,Male,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+365,21-30,Male,United States,No,Yes,Yes,More than 1000,No,Somewhat difficult,Not sure,No,North America,2014-08
+366,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Very easy,No,No,North America,2014-08
+367,31-40,Male,United States,No,Yes,Yes,100-500,No,Very easy,Yes,No,North America,2014-08
+368,21-30,Male,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+369,21-30,Male,United Kingdom,No,No,Yes,Less than 26,No,Very easy,Not sure,No,Europe,2014-08
+370,21-30,Female,United States,No,No,No,More than 1000,Yes,Somewhat easy,No,No,North America,2014-08
+371,41-50,Male,United States,No,Yes,Yes,More than 1000,Yes,Somewhat difficult,No,Yes,North America,2014-08
+372,51 up,Male,United States,No,Yes,Yes,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+373,31-40,Female,United States,No,No,Yes,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+374,21-30,Female,United States,No,Yes,Yes,26-100,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+375,41-50,Male,United States,No,No,Yes,26-100,Don't know,Don't know,Yes,No,North America,2014-08
+376,21-30,Female,United States,No,No,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+377,21-30,Female,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+378,31-40,Female,United States,No,Yes,Yes,More than 1000,Yes,Very difficult,Yes,No,North America,2014-08
+379,21-30,Female,United States,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+380,41-50,Male,Canada,No,No,Yes,500-1000,No,Somewhat easy,Not sure,No,North America,2014-08
+381,21-30,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,No,No,North America,2014-08
+382,31-40,Others,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+383,21-30,Male,Germany,No,Yes,Yes,26-100,No,Somewhat easy,No,No,Europe,2014-08
+384,21-30,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+385,21-30,Female,United States,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+386,41-50,Male,New Zealand,No,No,No,500-1000,No,Don't know,Not sure,No,Oceania,2014-08
+387,21-30,Others,United States,Yes,Yes,Yes,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+388,21-30,Female,United States,No,No,Yes,Less than 26,No,Somewhat difficult,Not sure,No,North America,2014-08
+389,31-40,Female,Sweden,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,Europe,2014-08
+390,51 up,Others,Zimbabwe,Yes,Yes,Yes,Less than 26,No,Very difficult,Yes,Yes,Africa,2014-08
+391,31-40,Female,United States,No,Yes,Yes,More than 1000,Don't know,Somewhat easy,No,No,North America,2014-08
+392,31-40,Male,United States,No,No,No,More than 1000,No,Somewhat easy,No,No,North America,2014-08
+393,21-30,Male,Canada,No,Yes,Yes,26-100,Don't know,Very easy,No,No,North America,2014-08
+394,21-30,Female,United States,No,Yes,No,500-1000,No,Very difficult,No,Yes,North America,2014-08
+395,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+396,41-50,Male,United Kingdom,No,No,No,26-100,No,Don't know,No,No,Europe,2014-08
+397,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Very difficult,No,Yes,Europe,2014-08
+398,31-40,Female,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+399,21-30,Male,Canada,No,No,Yes,100-500,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+400,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat difficult,Yes,No,North America,2014-08
+401,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+402,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+403,31-40,Male,United States,No,Yes,Yes,100-500,No,Very difficult,Yes,Yes,North America,2014-08
+404,21-30,Male,Germany,No,Yes,Yes,26-100,No,Very easy,No,No,Europe,2014-08
+405,21-30,Male,United States,No,Yes,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+406,31-40,Male,United States,No,Yes,Yes,26-100,Yes,Don't know,Yes,No,North America,2014-08
+407,31-40,Male,United States,No,No,No,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+408,21-30,Male,Brazil,Yes,No,No,Less than 26,No,Somewhat easy,No,No,South America,2014-08
+409,21-30,Female,Spain,No,Yes,No,500-1000,No,Don't know,No,No,Europe,2014-08
+410,31-40,Male,United States,No,Yes,Yes,More than 1000,No,Somewhat easy,Yes,No,North America,2014-08
+411,31-40,Female,United States,No,Yes,Yes,More than 1000,No,Very difficult,Not sure,No,North America,2014-08
+412,21-30,Male,United States,No,Yes,No,More than 1000,Don't know,Don't know,Not sure,Yes,North America,2014-08
+413,31-40,Others,United Kingdom,No,Yes,Yes,More than 1000,No,Don't know,No,No,Europe,2014-08
+414,21-30,Female,United States,No,No,Yes,100-500,Don't know,Somewhat difficult,Not sure,No,North America,2014-08
+415,21-30,Male,United States,No,Yes,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+416,21-30,Others,Germany,No,Yes,Yes,100-500,No,Somewhat difficult,Not sure,No,Europe,2014-08
+417,21-30,Male,India,No,No,No,Less than 26,No,Don't know,No,No,Asia,2014-08
+418,31-40,Male,Finland,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+419,51 up,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,Yes,North America,2014-08
+420,21-30,Male,Germany,No,Yes,Yes,Less than 26,No,Very easy,No,No,Europe,2014-08
+421,21-30,Male,Uruguay,No,No,No,26-100,Don't know,Don't know,No,No,South America,2014-08
+422,21-30,Male,New Zealand,No,Yes,Yes,Less than 26,Yes,Very easy,Yes,No,Oceania,2014-08
+423,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+424,21-30,Female,United States,No,No,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+425,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+426,21-30,Male,United States,No,Yes,Yes,100-500,No,Somewhat difficult,Yes,Yes,North America,2014-08
+427,21-30,Female,United States,No,No,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+428,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+429,21-30,Female,United States,No,No,No,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+430,21-30,Male,Canada,Yes,No,No,100-500,No,Somewhat easy,No,No,North America,2014-08
+431,21-30,Female,United States,No,Yes,Yes,Less than 26,No,Very easy,No,No,North America,2014-08
+432,31-40,Male,United States,Yes,No,Yes,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+433,31-40,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+434,21-30,Female,United States,No,No,Yes,26-100,No,Somewhat difficult,Not sure,No,North America,2014-08
+435,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+436,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,Yes,North America,2014-08
+437,20 down,Male,Australia,No,No,No,100-500,Don't know,Very easy,Not sure,No,Oceania,2014-08
+438,21-30,Female,United States,No,No,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+439,21-30,Male,United States,No,Yes,Yes,Less than 26,Yes,Somewhat easy,Yes,No,North America,2014-08
+440,21-30,Male,United Kingdom,No,Yes,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+441,31-40,Male,United States,No,No,No,More than 1000,Yes,Somewhat easy,No,No,North America,2014-08
+442,41-50,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+443,31-40,Female,United States,No,No,No,100-500,Don't know,Don't know,No,No,North America,2014-08
+444,21-30,Male,Canada,No,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+445,31-40,Male,United States,No,Yes,No,More than 1000,No,Don't know,No,Yes,North America,2014-08
+446,31-40,Male,United States,No,Yes,No,More than 1000,Don't know,Don't know,Not sure,Yes,North America,2014-08
+447,21-30,Female,United States,No,No,Yes,100-500,No,Somewhat difficult,Yes,Yes,North America,2014-08
+448,21-30,Male,United States,No,No,Yes,26-100,Yes,Don't know,Yes,No,North America,2014-08
+449,31-40,Male,Canada,No,Yes,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+450,41-50,Male,United States,Yes,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+451,31-40,Others,United States,No,Yes,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+452,21-30,Male,United States,No,Yes,Yes,More than 1000,Yes,Very difficult,Yes,Yes,North America,2014-08
+453,31-40,Male,United States,No,No,Yes,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+454,21-30,Male,United States,No,Yes,Yes,100-500,No,Don't know,Not sure,No,North America,2014-08
+455,31-40,Male,United States,No,No,No,More than 1000,No,Somewhat easy,No,No,North America,2014-08
+456,21-30,Male,Brazil,No,No,No,Less than 26,No,Somewhat easy,Yes,No,South America,2014-08
+457,31-40,Male,Netherlands,No,Yes,No,100-500,No,Don't know,No,No,Europe,2014-08
+458,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+459,31-40,Male,United States,No,No,No,500-1000,No,Don't know,No,No,North America,2014-08
+460,21-30,Male,United Kingdom,No,No,No,26-100,Don't know,Don't know,No,No,Europe,2014-08
+461,31-40,Female,United States,No,No,No,500-1000,Yes,Very easy,Not sure,No,North America,2014-08
+462,21-30,Others,United States,No,No,No,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+463,21-30,Female,United States,No,Yes,No,26-100,No,Somewhat difficult,Not sure,No,North America,2014-08
+464,21-30,Male,United States,No,Yes,Yes,Less than 26,Yes,Somewhat easy,No,No,North America,2014-08
+465,31-40,Male,United Kingdom,Yes,No,Yes,26-100,No,Somewhat easy,No,No,Europe,2014-08
+466,51 up,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+467,21-30,Male,United Kingdom,No,No,Yes,More than 1000,No,Very difficult,No,No,Europe,2014-08
+468,21-30,Male,France,No,No,No,Less than 26,No,Don't know,Yes,No,Europe,2014-08
+469,41-50,Female,Netherlands,No,No,Yes,100-500,No,Don't know,Yes,No,Europe,2014-08
+470,31-40,Male,United States,No,No,Yes,100-500,Yes,Very easy,Yes,No,North America,2014-08
+471,51 up,Male,United States,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+472,21-30,Male,United States,No,No,No,Less than 26,No,Very difficult,No,No,North America,2014-08
+473,31-40,Female,United Kingdom,No,No,Yes,More than 1000,No,Don't know,Yes,Yes,Europe,2014-08
+474,31-40,Male,United States,No,No,No,Less than 26,No,Very difficult,No,No,North America,2014-08
+475,51 up,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+476,21-30,Male,Germany,No,Yes,Yes,Less than 26,No,Somewhat difficult,Not sure,Yes,Europe,2014-08
+477,21-30,Male,Germany,Yes,Yes,Yes,26-100,Don't know,Don't know,No,No,Europe,2014-08
+478,20 down,Male,Finland,No,No,No,500-1000,No,Very easy,No,No,Europe,2014-08
+479,21-30,Female,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+480,21-30,Male,United States,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+481,41-50,Male,United States,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+482,20 down,Female,United Kingdom,No,Yes,Yes,Less than 26,Don't know,Don't know,Not sure,No,Europe,2014-08
+483,21-30,Male,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+484,41-50,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+485,41-50,Male,Germany,No,No,Yes,26-100,Don't know,Somewhat easy,Yes,Yes,Europe,2014-08
+486,21-30,Female,United States,No,Yes,Yes,26-100,No,Don't know,Not sure,No,North America,2014-08
+487,21-30,Male,United States,Yes,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+488,21-30,Male,Israel,No,No,No,Less than 26,No,Very easy,No,No,Asia,2014-08
+489,31-40,Male,Italy,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+490,31-40,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+491,21-30,Male,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+492,21-30,Male,Israel,No,No,No,26-100,No,Somewhat difficult,No,Yes,Asia,2014-08
+493,21-30,Female,United States,Yes,Yes,Yes,Less than 26,Don't know,Don't know,No,Yes,North America,2014-08
+494,21-30,Male,United States,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+495,21-30,Female,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Not sure,Yes,North America,2014-08
+496,31-40,Male,United States,No,No,Yes,More than 1000,No,Somewhat difficult,Not sure,Yes,North America,2014-08
+497,21-30,Female,United States,Yes,Yes,Yes,Less than 26,No,Somewhat difficult,Not sure,Yes,North America,2014-08
+498,51 up,Male,United Kingdom,No,No,Yes,More than 1000,Yes,Very easy,Yes,No,Europe,2014-08
+499,31-40,Male,Netherlands,No,No,No,Less than 26,Don't know,Somewhat easy,Not sure,No,Europe,2014-08
+500,31-40,Female,United States,No,No,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+501,31-40,Male,Ireland,Yes,Yes,No,More than 1000,No,Don't know,No,Yes,Europe,2014-08
+502,31-40,Male,United Kingdom,No,No,No,26-100,No,Don't know,Not sure,No,Europe,2014-08
+503,21-30,Male,Germany,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,Europe,2014-08
+504,31-40,Female,United States,No,No,Yes,100-500,No,Don't know,Yes,No,North America,2014-08
+505,41-50,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+506,41-50,Male,United States,No,No,No,100-500,Yes,Very difficult,No,No,North America,2014-08
+507,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+508,41-50,Male,United States,No,Yes,Yes,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+509,21-30,Male,United States,No,No,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+510,31-40,Female,United States,No,No,Yes,500-1000,Yes,Very easy,Yes,No,North America,2014-08
+511,21-30,Female,United States,No,No,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+512,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+513,31-40,Male,United States,No,No,No,26-100,Yes,Very easy,Yes,No,North America,2014-08
+514,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+515,41-50,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+516,41-50,Male,United States,No,No,Yes,500-1000,Yes,Don't know,Not sure,No,North America,2014-08
+517,31-40,Female,United States,No,Yes,Yes,More than 1000,Yes,Very easy,Yes,Yes,North America,2014-08
+518,31-40,Male,Germany,No,No,Yes,Less than 26,No,Very easy,Yes,No,Europe,2014-08
+519,31-40,Male,United Kingdom,No,Yes,Yes,26-100,No,Very easy,Yes,No,Europe,2014-08
+520,51 up,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+521,21-30,Female,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+522,31-40,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+523,21-30,Male,Bosnia and Herzegovina,No,Yes,No,26-100,Don't know,Don't know,Not sure,Yes,Europe,2014-08
+524,31-40,Male,United States,Yes,Yes,Yes,Less than 26,Don't know,Somewhat difficult,Yes,No,North America,2014-08
+525,41-50,Female,United States,No,Yes,Yes,500-1000,Yes,Very easy,Yes,No,North America,2014-08
+526,21-30,Male,Austria,Yes,No,No,Less than 26,Don't know,Somewhat easy,Yes,No,Europe,2014-08
+527,51 up,Male,New Zealand,No,No,Yes,26-100,Yes,Somewhat difficult,Yes,Yes,Oceania,2014-08
+528,21-30,Male,United States,No,No,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+529,31-40,Female,Canada,Yes,Yes,Yes,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+530,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+531,31-40,Male,Australia,No,No,Yes,100-500,Yes,Somewhat easy,Yes,No,Oceania,2014-08
+532,21-30,Female,Hungary,Yes,Yes,No,Less than 26,No,Very difficult,No,No,Europe,2014-08
+533,21-30,Male,Sweden,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+534,21-30,Male,Canada,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+535,21-30,Female,Australia,No,Yes,Yes,Less than 26,No,Somewhat difficult,Yes,No,Oceania,2014-08
+536,31-40,Male,United States,No,Yes,Yes,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+537,21-30,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,No,No,North America,2014-08
+538,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+539,21-30,Female,United States,No,Yes,Yes,500-1000,No,Don't know,Yes,Yes,North America,2014-08
+540,21-30,Female,United States,No,Yes,Yes,100-500,No,Somewhat difficult,No,No,North America,2014-08
+541,31-40,Female,United States,No,Yes,Yes,100-500,No,Somewhat easy,Yes,No,North America,2014-08
+542,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+543,21-30,Female,United States,No,Yes,Yes,100-500,No,Don't know,No,Yes,North America,2014-08
+544,21-30,Others,United Kingdom,No,Yes,Yes,100-500,No,Somewhat difficult,Not sure,Yes,Europe,2014-08
+545,21-30,Female,United Kingdom,No,No,No,Less than 26,No,Very easy,Not sure,No,Europe,2014-08
+546,21-30,Male,United Kingdom,No,No,No,26-100,Don't know,Very easy,Not sure,No,Europe,2014-08
+547,31-40,Male,United States,No,Yes,Yes,More than 1000,No,Somewhat difficult,No,No,North America,2014-08
+548,21-30,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+549,21-30,Male,Germany,No,No,No,26-100,Don't know,Somewhat easy,No,No,Europe,2014-08
+550,21-30,Female,United States,No,Yes,No,500-1000,No,Don't know,Not sure,No,North America,2014-08
+551,31-40,Male,New Zealand,No,No,Yes,Less than 26,No,Very easy,No,No,Oceania,2014-08
+552,21-30,Female,Canada,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+553,21-30,Others,United Kingdom,No,No,Yes,26-100,Yes,Somewhat easy,Yes,No,Europe,2014-08
+554,21-30,Female,New Zealand,No,Yes,Yes,100-500,No,Somewhat easy,No,No,Oceania,2014-08
+555,31-40,Female,Canada,No,No,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+556,31-40,Male,Australia,No,No,No,More than 1000,Yes,Very easy,Yes,No,Oceania,2014-08
+557,31-40,Male,United States,No,No,No,26-100,Don't know,Don't know,No,No,North America,2014-08
+558,21-30,Male,Netherlands,No,Yes,Yes,Less than 26,No,Somewhat easy,Not sure,No,Europe,2014-08
+559,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+560,51 up,Male,United States,Yes,No,No,Less than 26,No,Very easy,No,No,North America,2014-08
+561,21-30,Male,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+562,31-40,Male,Australia,No,No,No,More than 1000,Don't know,Very easy,Not sure,No,Oceania,2014-08
+563,31-40,Male,United States,No,No,Yes,26-100,No,Don't know,Not sure,No,North America,2014-08
+564,31-40,Male,Canada,No,No,No,26-100,No,Somewhat difficult,No,No,North America,2014-08
+565,21-30,Male,United States,No,No,Yes,More than 1000,No,Somewhat difficult,Yes,No,North America,2014-08
+566,31-40,Male,United States,No,No,Yes,500-1000,Yes,Don't know,Not sure,No,North America,2014-08
+567,31-40,Male,United States,No,No,Yes,More than 1000,No,Somewhat easy,No,No,North America,2014-08
+568,31-40,Male,United States,No,Yes,No,More than 1000,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+569,31-40,Others,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+570,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+571,41-50,Others,United States,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+572,21-30,Female,United States,No,No,No,500-1000,Don't know,Don't know,Not sure,No,North America,2014-08
+573,21-30,Female,United States,No,Yes,Yes,26-100,No,Somewhat difficult,Yes,Yes,North America,2014-08
+574,41-50,Male,United States,No,No,No,26-100,No,Don't know,Yes,No,North America,2014-08
+575,31-40,Male,United States,No,Yes,No,26-100,No,Somewhat easy,No,No,North America,2014-08
+576,21-30,Male,United States,No,No,No,26-100,Don't know,Don't know,No,No,North America,2014-08
+577,31-40,Male,United States,No,Yes,No,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+578,21-30,Male,Canada,Yes,No,No,26-100,No,Very difficult,Yes,No,North America,2014-08
+579,31-40,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+580,41-50,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,No,Yes,North America,2014-08
+581,41-50,Male,United States,No,Yes,No,100-500,No,Don't know,No,No,North America,2014-08
+582,21-30,Male,Canada,No,No,Yes,More than 1000,Yes,Somewhat difficult,Not sure,Yes,North America,2014-08
+583,31-40,Male,United States,No,No,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+584,21-30,Male,Singapore,No,No,No,Less than 26,No,Don't know,No,No,Asia,2014-08
+585,31-40,Female,United States,No,No,No,26-100,No,Somewhat easy,Not sure,No,North America,2014-08
+586,21-30,Male,Australia,No,No,Yes,100-500,No,Don't know,No,Yes,Oceania,2014-08
+587,21-30,Female,United States,No,No,No,26-100,Yes,Don't know,Yes,Yes,North America,2014-08
+588,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+589,41-50,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+590,31-40,Male,United States,No,Yes,Yes,26-100,No,Don't know,Yes,Yes,North America,2014-08
+591,21-30,Male,United States,No,Yes,Yes,26-100,No,Somewhat difficult,No,No,North America,2014-08
+592,20 down,Male,Canada,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+593,41-50,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+594,21-30,Male,United States,No,Yes,No,100-500,Yes,Don't know,Yes,No,North America,2014-08
+595,21-30,Male,United States,No,No,No,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+596,21-30,Female,United States,No,Yes,Yes,100-500,No,Somewhat difficult,Not sure,Yes,North America,2014-08
+597,31-40,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+598,41-50,Male,United States,No,No,No,500-1000,Don't know,Don't know,Not sure,No,North America,2014-08
+599,31-40,Male,United States,No,Yes,Yes,100-500,No,Somewhat difficult,No,Yes,North America,2014-08
+600,21-30,Male,United States,No,Yes,No,100-500,Yes,Don't know,Yes,No,North America,2014-08
+601,31-40,Male,United States,Yes,Yes,No,Less than 26,Yes,Very easy,No,No,North America,2014-08
+602,31-40,Male,United States,No,Yes,Yes,100-500,No,Somewhat difficult,Not sure,No,North America,2014-08
+603,21-30,Female,United States,Yes,Yes,Yes,Less than 26,No,Somewhat difficult,Yes,No,North America,2014-08
+604,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+605,31-40,Male,United States,No,No,No,100-500,No,Don't know,Yes,No,North America,2014-08
+606,41-50,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+607,21-30,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+608,21-30,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+609,21-30,Male,Australia,No,No,No,Less than 26,No,Don't know,No,No,Oceania,2014-08
+610,31-40,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+611,41-50,Male,United States,Yes,No,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+612,31-40,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+613,21-30,Male,Singapore,No,No,No,26-100,No,Somewhat easy,Not sure,Yes,Asia,2014-08
+614,21-30,Male,United States,No,No,No,More than 1000,No,Very easy,No,No,North America,2014-08
+615,21-30,Male,United States,Yes,No,Yes,Less than 26,No,Somewhat difficult,Not sure,No,North America,2014-08
+616,31-40,Male,United States,No,No,No,26-100,Yes,Don't know,No,No,North America,2014-08
+617,31-40,Male,United States,No,Yes,Yes,100-500,No,Very difficult,Yes,No,North America,2014-08
+618,31-40,Male,Netherlands,No,Yes,No,26-100,No,Don't know,Not sure,No,Europe,2014-08
+619,21-30,Male,United Kingdom,No,Yes,Yes,100-500,No,Very easy,Yes,No,Europe,2014-08
+620,21-30,Male,Germany,No,Yes,No,100-500,No,Somewhat easy,No,No,Europe,2014-08
+621,21-30,Male,Netherlands,Yes,No,No,Less than 26,No,Don't know,Not sure,Yes,Europe,2014-08
+622,31-40,Female,United States,No,No,Yes,26-100,No,Very easy,Yes,No,North America,2014-08
+623,21-30,Female,United States,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+624,31-40,Female,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+625,21-30,Female,United States,No,Yes,Yes,500-1000,Yes,Somewhat difficult,Yes,No,North America,2014-08
+626,31-40,Male,Canada,No,Yes,Yes,100-500,No,Somewhat difficult,Yes,No,North America,2014-08
+627,31-40,Male,United States,Yes,Yes,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+628,31-40,Male,Canada,No,No,No,26-100,No,Very difficult,Yes,Yes,North America,2014-08
+629,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,Not sure,Yes,North America,2014-08
+630,21-30,Female,United Kingdom,No,No,Yes,100-500,No,Don't know,No,No,Europe,2014-08
+631,51 up,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+632,31-40,Male,Germany,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+633,31-40,Female,United States,No,No,Yes,100-500,No,Somewhat easy,Yes,No,North America,2014-08
+634,31-40,Male,Germany,No,No,Yes,100-500,Yes,Very easy,No,No,Europe,2014-08
+635,21-30,Male,Germany,No,No,No,26-100,No,Somewhat easy,No,No,Europe,2014-08
+636,31-40,Male,Poland,Yes,Yes,Yes,Less than 26,No,Somewhat easy,No,Yes,Europe,2014-08
+637,21-30,Male,United Kingdom,No,No,Yes,26-100,No,Somewhat easy,No,No,Europe,2014-08
+638,31-40,Male,United States,Yes,No,No,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+639,41-50,Male,Japan,Yes,Yes,Yes,Less than 26,Yes,Somewhat difficult,Yes,Yes,Asia,2014-08
+640,31-40,Male,Germany,No,No,No,26-100,No,Very easy,Yes,No,Europe,2014-08
+641,31-40,Male,Germany,No,No,No,26-100,No,Very easy,No,No,Europe,2014-08
+642,21-30,Female,Australia,No,Yes,Yes,More than 1000,Yes,Somewhat difficult,Yes,Yes,Oceania,2014-08
+643,51 up,Male,United States,No,No,No,26-100,No,Somewhat difficult,Yes,Yes,North America,2014-08
+644,31-40,Female,Belgium,No,Yes,Yes,100-500,No,Don't know,No,Yes,Europe,2014-08
+645,31-40,Male,Ireland,Yes,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+646,21-30,Male,Ireland,No,Yes,Yes,26-100,No,Don't know,No,No,Europe,2014-08
+647,21-30,Male,Australia,No,No,No,26-100,No,Very easy,No,No,Oceania,2014-08
+648,21-30,Female,Australia,No,Yes,No,100-500,Yes,Somewhat easy,Yes,No,Oceania,2014-08
+649,21-30,Female,Netherlands,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+650,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,No,No,North America,2014-08
+651,21-30,Male,United Kingdom,No,Yes,Yes,100-500,Don't know,Don't know,Not sure,No,Europe,2014-08
+652,51 up,Male,United Kingdom,Yes,Yes,Yes,Less than 26,No,Very easy,Not sure,Yes,Europe,2014-08
+653,31-40,Female,Australia,No,Yes,No,500-1000,Yes,Don't know,No,Yes,Oceania,2014-08
+654,31-40,Male,United States,No,No,Yes,500-1000,Yes,Very easy,Not sure,No,North America,2014-08
+655,21-30,Male,Nigeria,No,No,No,Less than 26,No,Don't know,No,No,Africa,2014-08
+656,21-30,Male,Poland,No,No,No,Less than 26,No,Somewhat difficult,No,No,Europe,2014-08
+657,31-40,Male,Germany,Yes,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+658,21-30,Male,United Kingdom,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,Europe,2014-08
+659,31-40,Male,Germany,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+660,20 down,Female,Switzerland,No,No,No,More than 1000,Yes,Somewhat easy,Yes,No,Europe,2014-08
+661,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+662,31-40,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+663,21-30,Male,Ireland,Yes,No,No,Less than 26,No,Somewhat difficult,No,No,Europe,2014-08
+664,21-30,Male,Italy,No,No,No,More than 1000,No,Very easy,No,No,Europe,2014-08
+665,21-30,Male,Ireland,No,No,Yes,26-100,Don't know,Very difficult,No,No,Europe,2014-08
+666,21-30,Male,India,Yes,No,No,Less than 26,Don't know,Very easy,No,Yes,Asia,2014-08
+667,21-30,Male,Ireland,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,Europe,2014-08
+668,21-30,Male,Netherlands,No,No,No,26-100,No,Don't know,No,No,Europe,2014-08
+669,41-50,Male,France,No,No,No,100-500,No,Don't know,No,No,Europe,2014-08
+670,21-30,Male,Russia,No,No,No,26-100,No,Somewhat difficult,Not sure,No,Europe,2014-08
+671,21-30,Male,United States,No,Yes,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+672,21-30,Male,Canada,No,No,No,100-500,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+673,21-30,Female,Israel,No,Yes,No,100-500,Don't know,Don't know,No,No,Asia,2014-08
+674,31-40,Male,Canada,No,Yes,No,26-100,No,Don't know,No,No,North America,2014-08
+675,21-30,Male,United States,No,No,Yes,26-100,No,Don't know,Not sure,No,North America,2014-08
+676,21-30,Male,India,No,No,No,26-100,No,Don't know,No,No,Asia,2014-08
+677,21-30,Female,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+678,21-30,Male,Germany,Yes,No,No,Less than 26,No,Very easy,Yes,No,Europe,2014-08
+679,41-50,Male,United States,No,No,Yes,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+680,31-40,Male,Bulgaria,No,No,Yes,26-100,No,Somewhat easy,No,Yes,Europe,2014-08
+681,31-40,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+682,20 down,Female,United States,No,Yes,Yes,26-100,No,Somewhat difficult,Not sure,No,North America,2014-08
+683,21-30,Female,Canada,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+684,21-30,Female,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+685,21-30,Female,India,No,Yes,Yes,More than 1000,No,Don't know,Not sure,No,Asia,2014-08
+686,31-40,Female,United States,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+687,41-50,Male,United States,No,Yes,Yes,100-500,Yes,Somewhat easy,Not sure,No,North America,2014-08
+688,21-30,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+689,21-30,Female,United Kingdom,No,No,Yes,Less than 26,Yes,Very easy,Not sure,No,Europe,2014-08
+690,21-30,Male,Canada,No,No,Yes,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+691,21-30,Male,Netherlands,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+692,21-30,Male,Germany,No,No,No,26-100,No,Somewhat easy,No,No,Europe,2014-08
+693,21-30,Female,Canada,No,No,No,More than 1000,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+694,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+695,31-40,Male,United Kingdom,No,No,Yes,26-100,No,Very easy,Yes,No,Europe,2014-08
+696,31-40,Male,France,No,No,No,100-500,No,Somewhat easy,No,No,Europe,2014-08
+697,31-40,Female,United States,No,No,No,More than 1000,No,Very difficult,Yes,No,North America,2014-08
+698,31-40,Male,France,No,No,No,500-1000,No,Don't know,No,No,Europe,2014-08
+699,21-30,Male,United States,No,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+700,21-30,Male,United States,No,No,No,100-500,No,Don't know,No,No,North America,2014-08
+701,31-40,Male,United States,Yes,Yes,Yes,Less than 26,Yes,Very difficult,Yes,Yes,North America,2014-08
+702,31-40,Male,United States,No,Yes,Yes,100-500,Don't know,Don't know,Yes,No,North America,2014-08
+703,21-30,Male,United States,No,No,Yes,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+704,41-50,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,Not sure,No,North America,2014-08
+705,31-40,Male,United Kingdom,No,No,Yes,100-500,No,Don't know,No,Yes,Europe,2014-08
+706,21-30,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+707,31-40,Male,United States,Yes,No,Yes,Less than 26,Don't know,Very easy,Not sure,No,North America,2014-08
+708,31-40,Female,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+709,21-30,Male,United States,No,No,Yes,26-100,No,Very easy,Yes,No,North America,2014-08
+710,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+711,21-30,Male,France,No,No,No,Less than 26,Don't know,Don't know,Not sure,No,Europe,2014-08
+712,21-30,Male,United States,No,Yes,No,100-500,No,Very easy,No,No,North America,2014-08
+713,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,Yes,No,North America,2014-08
+714,31-40,Male,United States,Yes,Yes,Yes,Less than 26,Don't know,Very difficult,Yes,No,North America,2014-08
+715,20 down,Male,United Kingdom,No,No,Yes,26-100,No,Somewhat difficult,No,No,Europe,2014-08
+716,21-30,Male,Germany,No,No,No,500-1000,Don't know,Somewhat easy,Yes,No,Europe,2014-08
+717,31-40,Male,United States,Yes,No,No,Less than 26,Yes,Somewhat easy,Yes,No,North America,2014-08
+718,21-30,Male,Netherlands,No,Yes,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+719,21-30,Male,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+720,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+721,21-30,Male,Canada,No,Yes,Yes,More than 1000,No,Very difficult,No,Yes,North America,2014-08
+722,21-30,Male,Canada,No,No,No,Less than 26,No,Somewhat difficult,Yes,No,North America,2014-08
+723,21-30,Male,United States,No,Yes,Yes,Less than 26,Yes,Don't know,No,No,North America,2014-08
+724,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+725,31-40,Male,South Africa,No,No,No,100-500,No,Don't know,No,No,Africa,2014-08
+726,21-30,Male,Germany,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+727,21-30,Male,Switzerland,No,Yes,Yes,26-100,No,Very difficult,No,No,Europe,2014-08
+728,21-30,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+729,41-50,Male,Croatia,Yes,No,Yes,Less than 26,No,Very difficult,No,Yes,Europe,2014-08
+730,31-40,Male,United Kingdom,No,No,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+731,21-30,Male,France,No,No,No,26-100,Yes,Don't know,No,No,Europe,2014-08
+732,21-30,Male,United States,No,No,No,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+733,31-40,Male,United States,No,No,No,26-100,Yes,Don't know,Yes,No,North America,2014-08
+734,20 down,Male,United States,No,No,No,100-500,No,Somewhat easy,Not sure,No,North America,2014-08
+735,31-40,Male,United Kingdom,Yes,No,No,100-500,No,Very easy,Not sure,No,Europe,2014-08
+736,41-50,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+737,31-40,Male,United Kingdom,No,No,Yes,26-100,No,Don't know,Not sure,No,Europe,2014-08
+738,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+739,31-40,Male,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+740,31-40,Male,Australia,No,Yes,Yes,26-100,No,Very easy,Yes,Yes,Oceania,2014-08
+741,31-40,Male,Belgium,No,No,No,Less than 26,No,Very difficult,Yes,No,Europe,2014-08
+742,31-40,Male,United Kingdom,No,No,Yes,100-500,No,Very easy,No,No,Europe,2014-08
+743,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,Yes,No,North America,2014-08
+744,31-40,Male,United States,No,No,Yes,100-500,No,Very difficult,Yes,No,North America,2014-08
+745,21-30,Male,United States,Yes,No,Yes,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+746,21-30,Male,Canada,No,No,No,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+747,31-40,Male,Italy,No,No,No,Less than 26,No,Somewhat difficult,No,No,Europe,2014-08
+748,31-40,Male,United States,No,Yes,Yes,Less than 26,Yes,Very easy,Yes,No,North America,2014-08
+749,20 down,Male,Canada,No,No,Yes,26-100,No,Somewhat difficult,Not sure,No,North America,2014-08
+750,31-40,Male,Norway,No,Yes,No,26-100,No,Very easy,Yes,No,Europe,2014-08
+751,41-50,Male,Germany,No,No,No,More than 1000,Yes,Very easy,Not sure,No,Europe,2014-08
+752,31-40,Male,United States,No,Yes,Yes,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+753,31-40,Male,Thailand,Yes,No,No,Less than 26,No,Very easy,No,No,Asia,2014-08
+754,31-40,Male,United States,No,No,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+755,21-30,Female,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+756,31-40,Female,United States,No,Yes,Yes,26-100,No,Don't know,Not sure,No,North America,2014-08
+757,21-30,Male,United States,No,Yes,Yes,More than 1000,Yes,Somewhat difficult,No,No,North America,2014-08
+758,31-40,Male,Germany,No,No,No,26-100,No,Somewhat easy,No,No,Europe,2014-08
+759,21-30,Male,United States,No,No,Yes,More than 1000,No,Don't know,Yes,Yes,North America,2014-08
+760,31-40,Male,Canada,Yes,Yes,No,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+761,31-40,Female,United States,No,Yes,Yes,26-100,Yes,Don't know,Yes,No,North America,2014-08
+762,31-40,Male,Ireland,No,Yes,Yes,Less than 26,No,Very easy,No,No,Europe,2014-08
+763,31-40,Male,Ireland,No,Yes,Yes,Less than 26,No,Very difficult,No,No,Europe,2014-08
+764,21-30,Female,United States,No,No,Yes,100-500,Yes,Somewhat easy,Not sure,No,North America,2014-08
+765,31-40,Male,Netherlands,Yes,No,No,Less than 26,Yes,Somewhat easy,No,No,Europe,2014-08
+766,31-40,Female,United States,Yes,Yes,Yes,Less than 26,Yes,Somewhat easy,Yes,No,North America,2014-08
+767,21-30,Male,United Kingdom,No,No,No,26-100,No,Somewhat easy,Not sure,No,Europe,2014-08
+768,31-40,Female,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+769,21-30,Male,United Kingdom,No,No,No,26-100,No,Somewhat easy,Not sure,No,Europe,2014-08
+770,31-40,Male,United Kingdom,No,No,Yes,500-1000,No,Don't know,No,No,Europe,2014-08
+771,31-40,Male,United States,Yes,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+772,31-40,Male,United Kingdom,No,No,No,More than 1000,No,Don't know,Not sure,No,Europe,2014-08
+773,21-30,Male,United Kingdom,No,No,No,More than 1000,No,Don't know,Not sure,No,Europe,2014-08
+774,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Somewhat easy,No,Yes,Europe,2014-08
+775,31-40,Male,Canada,No,No,Yes,100-500,Yes,Very easy,Yes,Yes,North America,2014-08
+776,41-50,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+777,31-40,Others,United Kingdom,No,No,Yes,More than 1000,Yes,Don't know,No,Yes,Europe,2014-08
+778,21-30,Female,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+779,31-40,Female,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+780,41-50,Male,United Kingdom,No,No,Yes,26-100,No,Don't know,No,No,Europe,2014-08
+781,31-40,Male,United States,No,No,Yes,Less than 26,No,Somewhat difficult,Yes,No,North America,2014-08
+782,31-40,Male,United Kingdom,No,Yes,Yes,More than 1000,Don't know,Very easy,Not sure,No,Europe,2014-08
+783,31-40,Male,United States,Yes,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+784,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+785,21-30,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+786,31-40,Male,United Kingdom,Yes,Yes,No,Less than 26,No,Somewhat easy,Yes,No,Europe,2014-08
+787,21-30,Male,United States,No,Yes,Yes,26-100,Don't know,Don't know,Yes,No,North America,2014-08
+788,31-40,Male,Netherlands,No,No,No,100-500,Don't know,Somewhat easy,No,No,Europe,2014-08
+789,31-40,Male,Switzerland,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,Europe,2014-08
+790,21-30,Male,United Kingdom,No,No,No,100-500,No,Somewhat easy,Not sure,Yes,Europe,2014-08
+791,31-40,Male,United States,No,No,Yes,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+792,31-40,Female,United States,No,No,Yes,Less than 26,No,Somewhat difficult,Not sure,Yes,North America,2014-08
+793,31-40,Female,United States,No,No,Yes,100-500,No,Very difficult,No,Yes,North America,2014-08
+794,21-30,Female,United States,No,Yes,Yes,More than 1000,Don't know,Very difficult,Not sure,Yes,North America,2014-08
+795,31-40,Male,United States,No,No,No,26-100,No,Somewhat easy,Yes,Yes,North America,2014-08
+796,31-40,Female,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-08
+797,21-30,Male,Brazil,No,No,No,26-100,No,Don't know,No,Yes,South America,2014-08
+798,21-30,Male,Switzerland,No,Yes,No,26-100,No,Don't know,No,No,Europe,2014-08
+799,31-40,Female,United States,No,No,Yes,100-500,Don't know,Very easy,No,No,North America,2014-08
+800,21-30,Male,United States,No,No,No,100-500,Yes,Very easy,Yes,No,North America,2014-08
+801,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+802,31-40,Male,United States,No,No,No,26-100,No,Don't know,No,No,North America,2014-08
+803,21-30,Female,United States,No,No,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+804,31-40,Male,United Kingdom,No,No,No,26-100,No,Somewhat easy,Not sure,No,Europe,2014-08
+805,21-30,Female,United States,No,No,Yes,26-100,No,Somewhat difficult,Yes,Yes,North America,2014-08
+806,31-40,Female,United States,No,Yes,Yes,100-500,Yes,Don't know,Yes,Yes,North America,2014-08
+807,31-40,Female,United States,No,Yes,No,Less than 26,No,Don't know,No,No,North America,2014-08
+808,21-30,Male,United States,No,No,No,26-100,No,Very easy,Not sure,No,North America,2014-08
+809,41-50,Male,United States,No,Yes,No,More than 1000,No,Don't know,Yes,No,North America,2014-08
+810,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+811,21-30,Male,United Kingdom,No,No,Yes,100-500,No,Somewhat difficult,No,No,Europe,2014-08
+812,31-40,Male,United States,No,No,Yes,Less than 26,No,Very difficult,No,Yes,North America,2014-08
+813,21-30,Male,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+814,31-40,Female,United Kingdom,Yes,No,No,Less than 26,Don't know,Don't know,Not sure,No,Europe,2014-08
+815,31-40,Female,United States,No,No,No,26-100,No,Don't know,Not sure,No,North America,2014-08
+816,31-40,Male,United States,No,Yes,Yes,500-1000,Yes,Very difficult,Yes,No,North America,2014-08
+817,41-50,Male,United States,Yes,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+818,21-30,Others,Germany,Yes,No,Yes,Less than 26,Yes,Very easy,Not sure,No,Europe,2014-08
+819,31-40,Male,Denmark,Yes,Yes,Yes,Less than 26,Yes,Somewhat easy,Yes,No,Europe,2014-08
+820,31-40,Female,United States,No,Yes,Yes,100-500,Yes,Don't know,Not sure,No,North America,2014-08
+821,31-40,Male,Denmark,Yes,Yes,Yes,Less than 26,Yes,Somewhat easy,Yes,No,Europe,2014-08
+822,31-40,Male,United States,No,No,No,More than 1000,No,Very difficult,Yes,No,North America,2014-08
+823,31-40,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+824,41-50,Male,United States,No,No,No,More than 1000,Yes,Don't know,No,No,North America,2014-08
+825,41-50,Female,United States,No,Yes,No,26-100,No,Very difficult,No,Yes,North America,2014-08
+826,20 down,Male,United States,No,No,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+827,31-40,Male,United States,Yes,No,No,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+828,21-30,Female,United Kingdom,No,No,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+829,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+830,21-30,Male,United States,No,Yes,No,More than 1000,No,Very easy,Yes,No,North America,2014-08
+831,31-40,Male,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+832,21-30,Male,Sweden,No,No,Yes,Less than 26,No,Very easy,Yes,No,Europe,2014-08
+833,21-30,Female,United States,No,Yes,Yes,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+834,31-40,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+835,41-50,Male,United Kingdom,No,Yes,Yes,500-1000,No,Somewhat difficult,No,Yes,Europe,2014-08
+836,21-30,Female,United States,No,Yes,Yes,Less than 26,No,Very easy,Yes,Yes,North America,2014-08
+837,41-50,Female,United States,No,No,No,100-500,No,Very difficult,No,No,North America,2014-08
+838,41-50,Male,United Kingdom,No,Yes,No,More than 1000,No,Very easy,No,No,Europe,2014-08
+839,31-40,Male,United States,No,No,No,More than 1000,Yes,Somewhat difficult,Yes,No,North America,2014-08
+840,41-50,Male,United States,No,No,Yes,More than 1000,No,Very difficult,No,No,North America,2014-08
+841,31-40,Male,United Kingdom,Yes,No,No,Less than 26,No,Somewhat difficult,No,Yes,Europe,2014-08
+842,31-40,Female,United States,No,Yes,Yes,100-500,No,Somewhat difficult,Yes,No,North America,2014-08
+843,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+844,31-40,Male,United States,No,Yes,No,26-100,No,Somewhat difficult,No,No,North America,2014-08
+845,31-40,Male,Italy,No,No,No,26-100,Don't know,Don't know,Not sure,No,Europe,2014-08
+846,31-40,Male,United States,No,No,Yes,100-500,Yes,Don't know,No,No,North America,2014-08
+847,31-40,Male,Netherlands,Yes,No,Yes,Less than 26,No,Very easy,No,No,Europe,2014-08
+848,31-40,Male,United States,Yes,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+849,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+850,41-50,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+851,21-30,Male,United States,No,Yes,No,26-100,No,Don't know,Yes,No,North America,2014-08
+852,21-30,Male,United Kingdom,No,Yes,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+853,21-30,Male,Canada,No,No,No,Less than 26,No,Very difficult,No,No,North America,2014-08
+854,31-40,Male,United States,No,Yes,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+855,21-30,Male,United States,No,Yes,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+856,51 up,Male,United States,No,No,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+857,21-30,Male,United States,No,No,No,Less than 26,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+858,31-40,Male,United States,No,No,No,100-500,No,Don't know,No,No,North America,2014-08
+859,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+860,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Don't know,No,No,Europe,2014-08
+861,21-30,Male,United Kingdom,Yes,No,Yes,Less than 26,Don't know,Somewhat difficult,Not sure,No,Europe,2014-08
+862,21-30,Male,United States,No,No,No,100-500,Don't know,Don't know,No,No,North America,2014-08
+863,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+864,41-50,Male,United States,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+865,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Somewhat difficult,No,Yes,Europe,2014-08
+866,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+867,31-40,Male,United States,No,No,No,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+868,31-40,Male,Germany,Yes,No,No,Less than 26,No,Somewhat easy,Yes,No,Europe,2014-08
+869,41-50,Male,Mexico,Yes,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+870,51 up,Male,United States,No,No,Yes,More than 1000,Don't know,Somewhat easy,Yes,No,North America,2014-08
+871,31-40,Female,United Kingdom,No,Yes,Yes,100-500,No,Somewhat difficult,No,Yes,Europe,2014-08
+872,41-50,Male,United Kingdom,No,No,No,26-100,Yes,Don't know,Yes,Yes,Europe,2014-08
+873,31-40,Male,United States,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+874,31-40,Male,United States,No,Yes,No,500-1000,No,Very easy,Yes,No,North America,2014-08
+875,21-30,Male,United States,Yes,Yes,Yes,Less than 26,No,Very difficult,Not sure,No,North America,2014-08
+876,31-40,Male,United States,No,No,No,26-100,Yes,Somewhat easy,No,No,North America,2014-08
+877,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+878,21-30,Female,United Kingdom,No,Yes,No,More than 1000,No,Somewhat easy,No,No,Europe,2014-08
+879,31-40,Male,United States,No,No,Yes,26-100,No,Very easy,Yes,No,North America,2014-08
+880,21-30,Male,United States,No,Yes,Yes,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+881,21-30,Male,United States,No,No,No,26-100,Don't know,Very easy,Yes,No,North America,2014-08
+882,31-40,Male,United States,No,No,No,500-1000,Yes,Don't know,No,Yes,North America,2014-08
+883,31-40,Male,United States,Yes,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+884,31-40,Male,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+885,41-50,Male,United States,No,Yes,No,500-1000,No,Don't know,No,No,North America,2014-08
+886,31-40,Male,United Kingdom,No,No,Yes,Less than 26,No,Don't know,Not sure,No,Europe,2014-08
+887,31-40,Male,United Kingdom,No,Yes,No,500-1000,Yes,Somewhat easy,Yes,No,Europe,2014-08
+888,21-30,Male,India,Yes,No,No,100-500,No,Very easy,No,No,Asia,2014-08
+889,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,No,Yes,North America,2014-08
+890,41-50,Male,United States,Yes,Yes,No,Less than 26,Don't know,Don't know,Not sure,No,North America,2014-08
+891,31-40,Male,United States,Yes,Yes,Yes,Less than 26,No,Very difficult,Yes,No,North America,2014-08
+892,21-30,Male,United States,No,Yes,No,100-500,Don't know,Don't know,Not sure,No,North America,2014-08
+893,21-30,Male,United States,No,Yes,No,100-500,Don't know,Very difficult,No,No,North America,2014-08
+894,31-40,Male,United States,No,Yes,Yes,500-1000,No,Don't know,Not sure,No,North America,2014-08
+895,51 up,Male,United States,No,No,No,100-500,No,Somewhat difficult,Not sure,No,North America,2014-08
+896,31-40,Male,United States,No,No,No,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+897,31-40,Male,Germany,Yes,No,Yes,Less than 26,No,Somewhat difficult,Not sure,No,Europe,2014-08
+898,41-50,Male,United States,Yes,No,No,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+899,21-30,Male,United States,No,No,No,26-100,No,Somewhat easy,No,No,North America,2014-08
+900,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+901,41-50,Male,United Kingdom,No,Yes,Yes,26-100,No,Very difficult,No,Yes,Europe,2014-08
+902,21-30,Female,United States,Yes,No,Yes,Less than 26,Yes,Very easy,Yes,Yes,North America,2014-08
+903,21-30,Male,United Kingdom,Yes,No,No,Less than 26,No,Very easy,Yes,No,Europe,2014-08
+904,51 up,Male,United States,Yes,No,No,Less than 26,No,Somewhat difficult,Yes,No,North America,2014-08
+905,41-50,Male,United States,No,Yes,Yes,More than 1000,No,Somewhat difficult,Yes,Yes,North America,2014-08
+906,21-30,Male,United States,No,No,No,More than 1000,Yes,Don't know,No,No,North America,2014-08
+907,21-30,Female,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+908,31-40,Male,United States,No,No,Yes,500-1000,Don't know,Don't know,Yes,No,North America,2014-08
+909,41-50,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+910,41-50,Male,Australia,No,No,Yes,Less than 26,No,Somewhat easy,No,Yes,Oceania,2014-08
+911,51 up,Male,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+912,21-30,Female,United Kingdom,No,Yes,Yes,Less than 26,No,Very easy,No,No,Europe,2014-08
+913,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,Yes,No,North America,2014-08
+914,21-30,Female,Canada,No,Yes,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+915,21-30,Male,United Kingdom,No,No,Yes,26-100,No,Somewhat difficult,No,No,Europe,2014-08
+916,21-30,Male,United States,Yes,No,No,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+917,31-40,Male,United Kingdom,Yes,No,Yes,Less than 26,No,Somewhat difficult,No,No,Europe,2014-08
+918,31-40,Male,United States,No,No,No,More than 1000,Yes,Very easy,Yes,No,North America,2014-08
+919,21-30,Female,United States,No,Yes,Yes,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+920,21-30,Male,United States,No,Yes,No,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+921,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat difficult,Yes,No,North America,2014-08
+922,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+923,41-50,Male,New Zealand,No,No,Yes,More than 1000,Don't know,Somewhat difficult,Yes,Yes,Oceania,2014-08
+924,31-40,Male,United States,No,Yes,No,500-1000,Don't know,Very easy,No,No,North America,2014-08
+925,21-30,Male,United States,No,No,No,More than 1000,Yes,Don't know,No,No,North America,2014-08
+926,41-50,Male,United States,No,Yes,No,500-1000,No,Don't know,Not sure,No,North America,2014-08
+927,21-30,Male,United States,No,No,No,26-100,Yes,Somewhat easy,Yes,No,North America,2014-08
+928,21-30,Male,United States,No,No,No,100-500,No,Don't know,No,No,North America,2014-08
+929,31-40,Male,United States,No,Yes,No,100-500,Don't know,Very easy,No,No,North America,2014-08
+930,31-40,Female,United States,No,Yes,Yes,Less than 26,Yes,Somewhat difficult,Not sure,No,North America,2014-08
+931,31-40,Male,United States,No,No,No,Less than 26,No,Very easy,No,No,North America,2014-08
+932,41-50,Male,United States,No,No,Yes,100-500,No,Very difficult,Yes,Yes,North America,2014-08
+933,31-40,Male,United States,No,Yes,Yes,100-500,No,Very difficult,Not sure,No,North America,2014-08
+934,21-30,Male,United States,No,Yes,Yes,More than 1000,No,Very difficult,Not sure,Yes,North America,2014-08
+935,31-40,Male,United Kingdom,Yes,Yes,Yes,Less than 26,No,Very difficult,No,No,Europe,2014-08
+936,41-50,Male,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+937,31-40,Male,Netherlands,No,Yes,Yes,Less than 26,No,Don't know,No,Yes,Europe,2014-08
+938,31-40,Male,United States,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+939,41-50,Male,United States,No,Yes,Yes,Less than 26,Yes,Somewhat difficult,Yes,No,North America,2014-08
+940,21-30,Male,United States,No,Yes,Yes,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+941,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Very difficult,Yes,Yes,North America,2014-08
+942,31-40,Female,United States,No,Yes,Yes,500-1000,No,Somewhat easy,Yes,No,North America,2014-08
+943,31-40,Male,United States,No,Yes,No,100-500,Yes,Don't know,Yes,No,North America,2014-08
+944,21-30,Male,United States,No,Yes,Yes,More than 1000,Don't know,Somewhat easy,No,No,North America,2014-08
+945,31-40,Male,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+946,41-50,Male,United States,No,No,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+947,41-50,Male,United States,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+948,31-40,Male,United States,No,No,Yes,More than 1000,Don't know,Very difficult,Yes,No,North America,2014-08
+949,31-40,Male,United States,No,Yes,Yes,Less than 26,Don't know,Very easy,Yes,No,North America,2014-08
+950,31-40,Male,Netherlands,No,No,Yes,26-100,No,Very easy,Yes,No,Europe,2014-08
+951,21-30,Male,United Kingdom,No,Yes,Yes,26-100,No,Somewhat easy,Yes,Yes,Europe,2014-08
+952,51 up,Male,South Africa,Yes,No,Yes,Less than 26,No,Very difficult,No,Yes,Africa,2014-08
+953,31-40,Female,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+954,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+955,31-40,Male,Germany,No,Yes,Yes,26-100,Yes,Somewhat easy,Not sure,No,Europe,2014-08
+956,21-30,Male,United States,No,Yes,No,More than 1000,No,Don't know,No,No,North America,2014-08
+957,31-40,Male,Netherlands,Yes,Yes,Yes,Less than 26,Yes,Very easy,Yes,No,Europe,2014-08
+958,21-30,Male,United States,No,No,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+959,31-40,Male,United Kingdom,No,No,No,More than 1000,Don't know,Don't know,Not sure,No,Europe,2014-08
+960,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+961,21-30,Male,Germany,Yes,No,No,Less than 26,No,Somewhat easy,Yes,No,Europe,2014-08
+962,31-40,Male,Germany,Yes,No,Yes,26-100,No,Somewhat difficult,No,No,Europe,2014-08
+963,21-30,Male,United Kingdom,Yes,Yes,No,Less than 26,No,Don't know,Not sure,No,Europe,2014-08
+964,51 up,Male,United Kingdom,No,No,Yes,More than 1000,Yes,Somewhat easy,Yes,Yes,Europe,2014-08
+965,31-40,Male,United Kingdom,Yes,Yes,Yes,Less than 26,No,Very difficult,Yes,Yes,Europe,2014-08
+966,21-30,Female,United Kingdom,Yes,Yes,Yes,Less than 26,No,Very easy,No,No,Europe,2014-08
+967,21-30,Male,United Kingdom,No,No,No,Less than 26,Don't know,Very easy,Not sure,No,Europe,2014-08
+968,41-50,Male,United Kingdom,No,Yes,No,100-500,No,Don't know,No,No,Europe,2014-08
+969,31-40,Female,United Kingdom,Yes,No,Yes,Less than 26,Yes,Very easy,Yes,No,Europe,2014-08
+970,41-50,Male,United States,No,No,No,More than 1000,No,Very difficult,Not sure,Yes,North America,2014-08
+971,21-30,Male,United Kingdom,Yes,No,Yes,Less than 26,No,Very difficult,Yes,Yes,Europe,2014-08
+972,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+973,41-50,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+974,21-30,Male,Germany,No,No,No,Less than 26,No,Somewhat easy,Not sure,No,Europe,2014-08
+975,21-30,Male,Germany,No,No,No,500-1000,Don't know,Don't know,No,No,Europe,2014-08
+976,31-40,Male,United States,No,No,No,More than 1000,Yes,Somewhat easy,Yes,Yes,North America,2014-08
+977,21-30,Male,France,No,Yes,No,500-1000,Don't know,Somewhat easy,Yes,Yes,Europe,2014-08
+978,21-30,Male,Belgium,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+979,21-30,Male,United Kingdom,No,Yes,Yes,26-100,No,Somewhat easy,No,No,Europe,2014-08
+980,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+981,31-40,Female,Canada,Yes,Yes,Yes,Less than 26,No,Somewhat easy,Yes,Yes,North America,2014-08
+982,31-40,Female,United Kingdom,No,Yes,Yes,26-100,No,Somewhat easy,Yes,No,Europe,2014-08
+983,21-30,Male,United States,No,Yes,Yes,100-500,No,Don't know,Not sure,No,North America,2014-08
+984,21-30,Male,Canada,No,No,No,26-100,Yes,Very easy,Not sure,No,North America,2014-08
+985,21-30,Male,United Kingdom,No,No,Yes,Less than 26,No,Very easy,No,No,Europe,2014-08
+986,31-40,Female,United Kingdom,No,Yes,No,500-1000,No,Somewhat difficult,Not sure,Yes,Europe,2014-08
+987,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Somewhat difficult,No,No,Europe,2014-08
+988,21-30,Male,United States,No,Yes,No,26-100,Yes,Somewhat easy,Not sure,No,North America,2014-08
+989,20 down,Others,Bahamas,Yes,Yes,Yes,Less than 26,Yes,Very easy,Yes,Yes,North America,2014-08
+990,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+991,20 down,Male,United Kingdom,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+992,21-30,Female,United States,No,Yes,Yes,26-100,Yes,Very easy,Yes,No,North America,2014-08
+993,21-30,Male,United Kingdom,Yes,No,No,Less than 26,No,Very easy,Yes,No,Europe,2014-08
+994,20 down,Male,India,No,No,Yes,26-100,No,Don't know,No,No,Asia,2014-08
+995,31-40,Male,United Kingdom,Yes,No,No,Less than 26,No,Somewhat easy,Not sure,No,Europe,2014-08
+996,31-40,Male,United States,No,No,Yes,100-500,No,Very easy,Yes,No,North America,2014-08
+997,31-40,Female,United States,No,Yes,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+998,31-40,Male,United Kingdom,No,No,No,500-1000,No,Don't know,No,No,Europe,2014-08
+999,21-30,Male,Sweden,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+1000,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+1001,41-50,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+1002,31-40,Male,United States,No,Yes,Yes,100-500,No,Very easy,Yes,No,North America,2014-08
+1003,21-30,Female,United States,No,No,Yes,26-100,No,Don't know,No,Yes,North America,2014-08
+1004,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Very easy,Yes,Yes,Europe,2014-08
+1005,31-40,Male,United Kingdom,No,No,No,500-1000,No,Very easy,No,No,Europe,2014-08
+1006,31-40,Male,United States,No,Yes,Yes,100-500,No,Very easy,Yes,No,North America,2014-08
+1007,31-40,Male,United States,No,No,No,100-500,No,Don't know,No,No,North America,2014-08
+1008,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+1009,41-50,Female,United States,No,No,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+1010,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+1011,31-40,Female,United States,Yes,No,No,Less than 26,Don't know,Somewhat easy,Yes,No,North America,2014-08
+1012,21-30,Female,United States,No,Yes,No,More than 1000,No,Somewhat difficult,Yes,Yes,North America,2014-08
+1013,31-40,Female,United States,No,Yes,No,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+1014,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+1015,21-30,Male,Israel,No,No,No,100-500,No,Very easy,Not sure,No,Asia,2014-08
+1016,21-30,Female,United States,No,No,No,Less than 26,No,Somewhat easy,Not sure,No,North America,2014-08
+1017,41-50,Female,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+1018,21-30,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-08
+1019,21-30,Male,United States,No,No,No,26-100,No,Somewhat easy,No,Yes,North America,2014-08
+1020,20 down,Male,Canada,No,No,No,26-100,No,Somewhat easy,No,No,North America,2014-08
+1021,21-30,Female,United States,No,Yes,Yes,500-1000,Yes,Somewhat easy,Yes,Yes,North America,2014-08
+1022,31-40,Male,United States,No,No,No,Less than 26,Yes,Somewhat easy,Yes,No,North America,2014-08
+1023,31-40,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-08
+1024,31-40,Male,United States,No,Yes,No,26-100,No,Somewhat easy,No,No,North America,2014-08
+1025,41-50,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+1026,21-30,Female,United States,No,No,No,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+1027,20 down,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+1028,31-40,Female,United States,No,Yes,No,100-500,Yes,Don't know,Yes,No,North America,2014-08
+1029,31-40,Male,United States,No,No,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+1030,21-30,Male,United States,No,Yes,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+1031,31-40,Male,United States,No,Yes,Yes,Less than 26,Don't know,Don't know,Not sure,No,North America,2014-08
+1032,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+1033,31-40,Female,United States,No,Yes,Yes,26-100,No,Very difficult,No,Yes,North America,2014-08
+1034,31-40,Male,United States,No,No,No,100-500,No,Don't know,No,Yes,North America,2014-08
+1035,31-40,Male,Canada,No,Yes,No,Less than 26,No,Don't know,Yes,No,North America,2014-08
+1036,21-30,Male,Australia,No,Yes,Yes,26-100,No,Don't know,No,No,Oceania,2014-08
+1037,41-50,Male,United States,No,No,No,More than 1000,Don't know,Don't know,No,No,North America,2014-08
+1038,31-40,Female,United States,No,No,No,Less than 26,No,Very easy,Not sure,No,North America,2014-08
+1039,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+1040,21-30,Female,United States,No,Yes,Yes,26-100,No,Somewhat easy,No,No,North America,2014-08
+1041,31-40,Male,United States,No,No,No,Less than 26,Don't know,Don't know,No,No,North America,2014-08
+1042,31-40,Male,United States,No,Yes,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-08
+1043,21-30,Male,United States,No,No,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+1044,21-30,Female,United Kingdom,No,No,Yes,More than 1000,No,Don't know,Yes,Yes,Europe,2014-08
+1045,21-30,Female,Canada,No,Yes,Yes,100-500,No,Don't know,Not sure,No,North America,2014-08
+1046,31-40,Male,Italy,No,Yes,Yes,Less than 26,No,Somewhat easy,Not sure,No,Europe,2014-08
+1047,21-30,Male,Brazil,No,Yes,No,100-500,No,Somewhat easy,No,Yes,South America,2014-08
+1048,41-50,Male,United States,Yes,No,Yes,Less than 26,Yes,Very difficult,Yes,Yes,North America,2014-08
+1049,31-40,Male,United Kingdom,Yes,Yes,Yes,Less than 26,Yes,Somewhat difficult,Yes,Yes,Europe,2014-08
+1050,21-30,Female,United States,No,Yes,Yes,More than 1000,No,Don't know,Yes,Yes,North America,2014-08
+1051,21-30,Female,United States,No,Yes,No,26-100,No,Somewhat difficult,No,No,North America,2014-08
+1052,31-40,Male,Switzerland,No,Yes,Yes,More than 1000,No,Very easy,Not sure,No,Europe,2014-08
+1053,31-40,Male,United States,No,No,No,Less than 26,Don't know,Very easy,Not sure,No,North America,2014-08
+1054,41-50,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+1055,31-40,Male,United States,No,Yes,Yes,500-1000,No,Very easy,Yes,No,North America,2014-08
+1056,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+1057,31-40,Male,United States,Yes,No,No,Less than 26,No,Very easy,No,No,North America,2014-08
+1058,31-40,Male,Canada,No,Yes,Yes,More than 1000,Don't know,Don't know,Not sure,No,North America,2014-08
+1059,21-30,Female,United States,No,No,Yes,Less than 26,Don't know,Very easy,Yes,No,North America,2014-08
+1060,21-30,Female,United States,No,No,Yes,More than 1000,No,Somewhat easy,No,No,North America,2014-08
+1061,21-30,Male,United States,No,No,Yes,100-500,No,Very difficult,Not sure,No,North America,2014-08
+1062,41-50,Male,United States,Yes,No,No,Less than 26,No,Somewhat difficult,No,No,North America,2014-08
+1063,21-30,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+1064,21-30,Male,Germany,No,Yes,Yes,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+1065,21-30,Male,South Africa,No,Yes,Yes,Less than 26,No,Don't know,No,Yes,Africa,2014-08
+1066,31-40,Male,United States,No,No,No,Less than 26,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+1067,21-30,Male,United States,No,No,No,More than 1000,No,Somewhat difficult,Yes,No,North America,2014-08
+1068,41-50,Male,United States,No,No,No,26-100,Yes,Don't know,Yes,No,North America,2014-08
+1069,31-40,Male,Greece,No,No,No,26-100,No,Very difficult,No,No,Europe,2014-08
+1070,31-40,Female,United States,No,No,Yes,Less than 26,No,Don't know,No,No,North America,2014-08
+1071,41-50,Male,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-08
+1072,41-50,Male,United States,No,No,No,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+1073,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,No,No,North America,2014-08
+1074,31-40,Male,United States,No,No,Yes,100-500,No,Somewhat easy,Yes,No,North America,2014-08
+1075,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-08
+1076,41-50,Male,United States,Yes,Yes,Yes,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+1077,21-30,Female,United States,No,Yes,Yes,More than 1000,Yes,Very difficult,Yes,Yes,North America,2014-08
+1078,31-40,Female,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+1079,31-40,Male,Netherlands,Yes,No,Yes,Less than 26,No,Very difficult,No,No,Europe,2014-08
+1080,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Very easy,Yes,No,North America,2014-08
+1081,21-30,Male,Netherlands,No,Yes,Yes,Less than 26,Don't know,Very difficult,Not sure,No,Europe,2014-08
+1082,21-30,Female,United States,No,Yes,Yes,More than 1000,No,Somewhat difficult,No,No,North America,2014-08
+1083,31-40,Female,Canada,No,Yes,Yes,26-100,Yes,Somewhat easy,No,No,North America,2014-08
+1084,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,Yes,Somewhat easy,Yes,No,Europe,2014-08
+1085,31-40,Male,Germany,No,No,No,Less than 26,No,Very easy,No,No,Europe,2014-08
+1086,41-50,Male,Germany,No,No,Yes,More than 1000,No,Somewhat difficult,No,No,Europe,2014-08
+1087,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,Not sure,No,North America,2014-08
+1088,31-40,Male,United States,No,No,Yes,26-100,Yes,Don't know,Yes,No,North America,2014-08
+1089,21-30,Female,United States,No,Yes,Yes,100-500,Don't know,Don't know,Yes,No,North America,2014-08
+1090,20 down,Male,United States,Yes,No,No,Less than 26,No,Very easy,Yes,No,North America,2014-08
+1091,41-50,Male,United States,No,Yes,No,100-500,No,Somewhat easy,Yes,No,North America,2014-08
+1092,31-40,Male,United States,No,Yes,Yes,100-500,No,Very difficult,Yes,No,North America,2014-08
+1093,21-30,Male,United States,No,No,Yes,More than 1000,Yes,Don't know,Yes,No,North America,2014-08
+1094,31-40,Male,United States,No,No,Yes,100-500,No,Very easy,No,No,North America,2014-08
+1095,31-40,Male,United States,Yes,No,Yes,Less than 26,No,Very difficult,Yes,Yes,North America,2014-08
+1096,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Very easy,No,No,North America,2014-08
+1097,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Somewhat difficult,Not sure,Yes,North America,2014-08
+1098,21-30,Male,United States,No,No,No,More than 1000,Yes,Somewhat easy,Not sure,No,North America,2014-08
+1099,41-50,Male,United States,No,No,No,500-1000,No,Don't know,No,No,North America,2014-08
+1100,21-30,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-08
+1101,21-30,Male,United States,No,Yes,No,100-500,No,Don't know,Not sure,No,North America,2014-08
+1102,31-40,Female,Canada,Yes,Yes,Yes,Less than 26,No,Very difficult,Yes,Yes,North America,2014-08
+1103,31-40,Female,United States,No,Yes,No,Less than 26,No,Somewhat easy,No,No,North America,2014-08
+1104,41-50,Male,United States,No,No,No,Less than 26,No,Don't know,No,No,North America,2014-08
+1105,21-30,Male,United States,No,No,Yes,Less than 26,No,Somewhat easy,Yes,No,North America,2014-08
+1106,41-50,Male,France,Yes,No,Yes,26-100,No,Don't know,No,No,Europe,2014-08
+1107,21-30,Male,Australia,No,Yes,Yes,26-100,Don't know,Very easy,No,No,Oceania,2014-08
+1108,31-40,Female,United States,No,No,Yes,More than 1000,Don't know,Don't know,Yes,No,North America,2014-08
+1109,21-30,Male,India,No,No,No,Less than 26,No,Very easy,No,No,Asia,2014-08
+1110,31-40,Male,Croatia,No,Yes,Yes,Less than 26,No,Very easy,Yes,No,Europe,2014-08
+1111,21-30,Male,France,No,No,Yes,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+1112,31-40,Male,Germany,No,No,No,Less than 26,No,Don't know,Not sure,No,Europe,2014-08
+1113,21-30,Male,United States,No,Yes,Yes,Less than 26,Don't know,Very easy,No,No,North America,2014-08
+1114,31-40,Male,United States,No,No,No,More than 1000,Don't know,Somewhat easy,Not sure,No,North America,2014-08
+1115,21-30,Male,Canada,No,No,No,26-100,No,Don't know,Yes,Yes,North America,2014-08
+1116,31-40,Male,United Kingdom,No,No,Yes,100-500,No,Very easy,Not sure,No,Europe,2014-08
+1117,41-50,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-08
+1118,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Somewhat easy,Yes,No,North America,2014-08
+1119,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,Yes,No,North America,2014-08
+1120,31-40,Male,United Kingdom,Yes,No,Yes,Less than 26,Yes,Very easy,Yes,Yes,Europe,2014-08
+1121,41-50,Male,United Kingdom,No,No,Yes,More than 1000,No,Don't know,No,No,Europe,2014-08
+1122,31-40,Female,United Kingdom,No,No,Yes,100-500,No,Very easy,Not sure,No,Europe,2014-08
+1123,41-50,Female,United States,No,No,Yes,26-100,Don't know,Don't know,No,No,North America,2014-08
+1124,31-40,Male,United States,No,No,No,Less than 26,Don't know,Don't know,Not sure,No,North America,2014-08
+1125,21-30,Male,Germany,Yes,Yes,Yes,Less than 26,No,Don't know,No,Yes,Europe,2014-08
+1126,20 down,Female,United States,No,No,Yes,26-100,Don't know,Don't know,Not sure,No,North America,2014-08
+1127,20 down,Others,United States,Yes,Yes,Yes,Less than 26,Yes,Very easy,Yes,Yes,North America,2014-08
+1128,31-40,Male,Netherlands,No,Yes,No,Less than 26,No,Somewhat easy,No,No,Europe,2014-08
+1129,21-30,Male,United States,No,No,No,More than 1000,No,Somewhat easy,No,No,North America,2014-08
+1130,41-50,Female,United States,No,Yes,Yes,26-100,No,Don't know,Yes,No,North America,2014-08
+1131,31-40,Male,United Kingdom,No,No,No,26-100,No,Don't know,No,Yes,Europe,2014-08
+1132,31-40,Female,United States,No,Yes,Yes,More than 1000,No,Somewhat easy,Yes,No,North America,2014-08
+1133,21-30,Male,New Zealand,No,No,No,26-100,No,Somewhat difficult,Yes,Yes,Oceania,2014-08
+1134,21-30,Male,New Zealand,No,No,No,26-100,No,Somewhat difficult,Yes,Yes,Oceania,2014-08
+1135,21-30,Male,United Kingdom,No,No,Yes,More than 1000,No,Somewhat easy,No,No,Europe,2014-09
+1136,21-30,Male,United Kingdom,No,Yes,Yes,26-100,No,Very easy,No,No,Europe,2014-09
+1137,41-50,Male,United Kingdom,No,Yes,No,Less than 26,No,Somewhat difficult,No,No,Europe,2014-09
+1138,21-30,Male,Germany,No,Yes,Yes,Less than 26,No,Somewhat easy,Not sure,No,Europe,2014-09
+1139,21-30,Male,United Kingdom,No,No,Yes,More than 1000,No,Don't know,No,No,Europe,2014-09
+1140,21-30,Male,Moldova,No,No,Yes,26-100,No,Very difficult,Yes,No,Europe,2014-09
+1141,21-30,Male,Sweden,No,No,No,More than 1000,Don't know,Don't know,Not sure,Yes,Europe,2014-09
+1142,21-30,Male,Belgium,No,No,No,More than 1000,No,Somewhat easy,No,Yes,Europe,2014-09
+1143,21-30,Female,United Kingdom,No,Yes,No,More than 1000,No,Don't know,Yes,No,Europe,2014-09
+1144,21-30,Male,Israel,No,No,No,More than 1000,Yes,Somewhat difficult,Yes,No,Asia,2014-09
+1145,21-30,Female,United States,No,Yes,No,26-100,No,Don't know,No,No,North America,2014-09
+1146,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,Don't know,Very easy,Not sure,No,Europe,2014-09
+1147,31-40,Male,United Kingdom,No,Yes,Yes,More than 1000,No,Very easy,No,No,Europe,2014-09
+1148,31-40,Male,United States,No,Yes,Yes,More than 1000,No,Somewhat easy,Yes,No,North America,2014-09
+1149,31-40,Male,United States,No,No,No,Less than 26,No,Don't know,Not sure,No,North America,2014-09
+1150,31-40,Male,United States,No,No,Yes,More than 1000,Yes,Somewhat difficult,Yes,Yes,North America,2014-09
+1151,21-30,Male,United Kingdom,No,No,No,Less than 26,No,Don't know,No,No,Europe,2014-09
+1152,31-40,Male,Canada,No,Yes,Yes,100-500,No,Don't know,Not sure,No,North America,2014-09
+1153,31-40,Female,United Kingdom,No,Yes,No,26-100,Yes,Very easy,Yes,No,Europe,2014-09
+1154,31-40,Male,United States,No,Yes,Yes,26-100,No,Somewhat easy,Not sure,No,North America,2014-09
+1155,31-40,Male,Canada,Yes,No,No,Less than 26,No,Very easy,Not sure,No,North America,2014-09
+1156,31-40,Male,Netherlands,Yes,No,No,Less than 26,Don't know,Very easy,Not sure,No,Europe,2014-09
+1157,31-40,Male,United Kingdom,No,Yes,Yes,Less than 26,No,Somewhat easy,Not sure,No,Europe,2014-09
+1158,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-09
+1159,51 up,Male,Singapore,No,No,No,More than 1000,No,Don't know,No,No,Asia,2014-09
+1160,21-30,Male,United States,No,No,Yes,26-100,No,Don't know,Yes,No,North America,2014-09
+1161,31-40,Male,United Kingdom,No,No,No,100-500,No,Don't know,No,No,Europe,2014-09
+1162,31-40,Male,India,No,No,No,26-100,No,Don't know,Not sure,No,Asia,2014-09
+1163,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat easy,No,No,North America,2014-09
+1164,41-50,Female,United States,No,No,Yes,100-500,No,Don't know,Yes,No,North America,2014-09
+1165,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,No,No,North America,2014-09
+1166,21-30,Male,United States,No,Yes,Yes,26-100,Yes,Don't know,Yes,No,North America,2014-09
+1167,31-40,Male,Poland,No,No,No,More than 1000,No,Don't know,Not sure,No,Europe,2014-09
+1168,21-30,Male,Colombia,No,No,No,Less than 26,No,Very difficult,No,No,South America,2014-09
+1169,31-40,Female,United States,No,No,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-09
+1170,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-09
+1171,21-30,Male,United States,No,No,No,More than 1000,Yes,Don't know,No,No,North America,2014-09
+1172,31-40,Female,United States,No,Yes,Yes,26-100,No,Somewhat easy,Yes,Yes,North America,2014-09
+1173,21-30,Male,United Kingdom,No,No,Yes,Less than 26,No,Very difficult,No,Yes,Europe,2014-09
+1174,20 down,Male,Georgia,No,No,No,26-100,No,Very difficult,No,No,Asia,2014-09
+1175,31-40,Male,United States,No,Yes,No,Less than 26,No,Somewhat difficult,No,Yes,North America,2014-09
+1176,21-30,Female,United States,No,Yes,Yes,100-500,No,Don't know,No,No,North America,2014-09
+1177,21-30,Male,United States,No,No,No,26-100,No,Don't know,No,Yes,North America,2014-09
+1178,31-40,Male,China,Yes,No,No,Less than 26,No,Somewhat easy,Yes,No,Asia,2014-09
+1179,21-30,Female,Bulgaria,No,No,Yes,26-100,No,Don't know,No,No,Europe,2014-09
+1180,31-40,Female,United States,No,No,Yes,26-100,No,Don't know,Yes,No,North America,2014-09
+1181,31-40,Male,United States,No,Yes,Yes,More than 1000,Yes,Don't know,Yes,Yes,North America,2014-09
+1182,51 up,Female,United States,No,Yes,Yes,500-1000,Don't know,Somewhat easy,Not sure,Yes,North America,2014-10
+1183,31-40,Female,United States,No,Yes,Yes,Less than 26,No,Don't know,No,No,North America,2014-10
+1184,21-30,Female,United States,No,No,Yes,Less than 26,No,Very difficult,Yes,No,North America,2014-10
+1185,21-30,Female,United States,No,No,No,100-500,Don't know,Don't know,Not sure,No,North America,2014-11
+1186,51 up,Female,United States,Yes,No,No,Less than 26,Don't know,Don't know,Not sure,No,North America,2014-11
+1187,31-40,Male,United States,No,Yes,Yes,26-100,No,Don't know,No,No,North America,2014-11
+1188,31-40,Female,Belgium,No,No,No,26-100,No,Very easy,Not sure,No,Europe,2014-12
+1189,31-40,Male,United States,No,Yes,Yes,Less than 26,No,Don't know,Yes,No,North America,2014-12
+1259,31-40,Male,United Kingdom,No,No,No,100-500,No,Don't know,No,No,Europe,2014-09
+1260,31-40,Male,India,No,No,No,26-100,No,Don't know,Not sure,No,Asia,2014-09
+1261,21-30,Male,United States,No,Yes,Yes,Less than 26,No,Somewhat easy,No,No,North America,2014-09
+1262,41-50,Female,United States,No,No,Yes,100-500,No,Don't know,Yes,No,North America,2014-09
+1263,31-40,Male,United States,No,Yes,No,More than 1000,Yes,Don't know,No,No,North America,2014-09
+1264,21-30,Male,United States,No,Yes,Yes,26-100,Yes,Don't know,Yes,No,North America,2014-09
+1265,31-40,Male,Poland,No,No,No,More than 1000,No,Don't know,Not sure,No,Europe,2014-09
+1266,21-30,Male,Colombia,No,No,No,Less than 26,No,Very difficult,No,No,South America,2014-09
+1267,31-40,Female,United States,No,No,Yes,More than 1000,No,Don't know,Yes,No,North America,2014-09
+1268,21-30,Male,United States,No,No,No,More than 1000,No,Don't know,Not sure,No,North America,2014-09
+1269,21-30,Male,United States,No,No,No,More than 1000,Yes,Don't know,No,No,North America,2014-09
+1270,31-40,Female,United States,No,Yes,Yes,26-100,No,Somewhat easy,Yes,Yes,North America,2014-09
+1271,21-30,Male,United Kingdom,No,No,Yes,Less than 26,No,Very difficult,No,Yes,Europe,2014-09
+1272,20 down,Male,Georgia,No,No,No,26-100,No,Very difficult,No,No,Asia,2014-09
