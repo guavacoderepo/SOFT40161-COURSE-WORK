@@ -5,6 +5,8 @@ This project delves into the analysis of mental health cases among employees acr
 The project aims to uncover patterns and correlations that can inform better mental health practices and 
 support systems within organizations.
 
+![Project Header](images/eda.png)
+
 ## Data Sources
 **Mental Health Survey:** The dataset used in this analysis is a mental health survey from Kaggle, containing responses from employees across various organizations, focusing on their mental health status, workplace stress, and support access.
 [Download Here]()
@@ -50,3 +52,9 @@ From the analysis, the following key insights were observed:
 - Gender Differences: Mental health issues appear to be more prevalent among men, suggesting a gender-based disparity or a potential underreporting of mental health among women.
 - Family History: A significant proportion of respondents do not have a history of mental health issues in their families, pointing to other factors influencing their mental health.
 - Gender Bias in Participation: The survey responses show a higher proportion of male respondents, which may indicate either a gender bias in the data or a higher level of participation from male employees.
+
+## Challenges Ecncountered
+Some of the challenges encountered while carrying out this project include:
+
+- **Handling Missing Values:** Properly imputing missing data without introducing bias.
+- **Feature Engineering:** Creating meaningful features from raw data to improve model accuracy.
