@@ -1,7 +1,7 @@
 # Employee Mental Health Analysis: Insights from Workplace Surveys
 
 ## Project Description
-This project delves into the analysis of mental health cases among employees across various organizations, 
+This project delves into the analysis of mental health cases among employees across various organizations.
 The project aims to uncover patterns and correlations that can inform better mental health practices and 
 support systems within organizations.
 
