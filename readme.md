@@ -1,33 +1,13 @@
+# Employee Mental Health Analysis: Insights from Workplace Surveys
+
 ## Project Description
-
-This project delves into the analysis of mental health cases among employees across various organizations, utilizing a comprehensive Kaggle dataset. The dataset, which consists of 27 columns, offers a wealth of insights into the mental health status and well-being of employees in diverse work environments. For this analysis, 11 key columns were selected based on their relevance to understanding the factors influencing employees' mental health. These selected features provide critical information regarding employees' mental health conditions, access to support, workplace stress levels, and other factors contributing to overall mental well-being. The project aims to uncover patterns and correlations that can inform better mental health practices and support systems within organizations.
-
-- Age, Country, and Gender: Provides demographic details such as age, region, and gender.
-- Self_employed: Indicates whether the respondent is self-employed or working for an organization.
-- Family_history: Shows if there is a history of mental health issues in the respondent’s family.
-- Treatment: Indicates whether the respondent is receiving treatment for mental health.
-- No_employees: Specifies the number of employees in the respondent’s company.
-- Wellness_program: Tells if the company offers well-being programs for employees.
-- Leave: Indicates whether the company provides leave for employees.
-- Care_options: Shows if the company offers care options to their staff.
-- Obs_consequence: Describes whether the respondent has mental health challenges or not.
-
+This project delves into the analysis of mental health cases among employees across various organizations, 
+The project aims to uncover patterns and correlations that can inform better mental health practices and 
+support systems within organizations.
 
 ## Data Sources
 **Mental Health Survey:** The dataset used in this analysis is a mental health survey from Kaggle, containing responses from employees across various organizations, focusing on their mental health status, workplace stress, and support access.
 [Download Here]()
-
-
-This data helps explore the relationship between various factors and employee mental health in different work environments.
-
-From the analysis, it can be seen that:
-
-- Most mental health cases by region are reported from North America.
-- By gender, mental health issues appear to be more common among men.
-- The majority of respondents do not have a history of mental health issues in their families.
-- Most respondents to the survey are men, indicating a potential gender bias in the data or a higher level of participation from male employees.
-
-
 
 ## Tools Used
 
@@ -39,3 +19,34 @@ From the analysis, it can be seen that:
     <img src="images/skills/tkinter.png" width="100" height="100">
     <img src="images/skills/git.png" width="100" height="100">
 </p>
+
+
+## Data Understanding
+The dataset, which consists of 27 columns, offers a wealth of insights into the mental health status and well-being of employees in diverse work environments. For this analysis, 11 key columns were selected based on their relevance to understanding the factors influencing employees' mental health. These selected features provide critical information regarding employees' mental health conditions, access to support, workplace stress levels, and other factors contributing to overall mental well-being. 
+
+## Data Preprocessing
+In the initial data preparation phase, the following tasks were performed:
+
+1. **Data Loading and Inspection:** The dataset was loaded and initially inspected for understanding its structure and key features.
+
+2. **Handling Duplicate Values:** Any duplicate rows were identified and removed to ensure the integrity of the data.
+
+3. **Handling Missing or Erroneous Values:** Missing or erroneous values were addressed using appropriate strategies, such as imputation or removal, depending on the nature of the data.
+
+
+## Exploratory Data Analysis
+We shall be exploring the dataset in search for answers to the following key questions:
+
+- **What is the distribution of mental health patients by gender?**
+- **What is the distribution of mental health cases by region?**
+- **What’s the effect of family on people’s mental health?**
+- **How many patients have successfully been treated and are undergoing treatment?**
+- **What is the company’s approach to reducing mental health issues?**
+
+## Findings/Results
+From the analysis, the following key insights were observed:
+
+- Regional Distribution: The highest number of mental health cases are reported from North America, indicating a potential regional trend in mental health concerns.
+- Gender Differences: Mental health issues appear to be more prevalent among men, suggesting a gender-based disparity or a potential underreporting of mental health among women.
+- Family History: A significant proportion of respondents do not have a history of mental health issues in their families, pointing to other factors influencing their mental health.
+- Gender Bias in Participation: The survey responses show a higher proportion of male respondents, which may indicate either a gender bias in the data or a higher level of participation from male employees.
