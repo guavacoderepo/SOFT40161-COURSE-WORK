@@ -9,7 +9,7 @@ support systems within organizations.
 
 ## Data Sources
 **Mental Health Survey:** The dataset used in this analysis is a mental health survey from Kaggle, containing responses from employees across various organizations, focusing on their mental health status, workplace stress, and support access.
-[Download Here]()
+[Download Here](https://drive.google.com/file/d/1Sj6PqUmhNXrNK94BE0cH7ArJQi84W574/view?usp=drive_link)
 
 ## Tools Used
 
@@ -38,9 +38,9 @@ We shall be exploring the dataset in search for answers to the following key que
 
 - **What is the distribution of mental health patients by gender?**
 - **What is the distribution of mental health cases by region?**
-- **What’s the effect of family on people’s mental health?**
+- **What's the effect of family on people's mental health?**
 - **How many patients have successfully been treated and are undergoing treatment?**
-- **What is the company’s approach to reducing mental health issues?**
+- **What is the company's approach to reducing mental health issues?**
 
 ## Findings/Results
 From the analysis, the following key insights were observed:
