@@ -33,10 +33,7 @@ In the initial data preparation phase, the following tasks were performed:
 
 2. **Handling Duplicate Values:** Any duplicate rows were identified and removed to ensure the integrity of the data.
 
-3. **Handling Missing or Erroneous Values:** Missing or erroneous values were addressed using appropriate strategies, such as imputation or removal, depending on the nature of the data.
-
-
-## Exploratory Data Analysis
+3. **Handling Missing or Erroneous Values:** Missing or erronimages/eda.png
 We shall be exploring the dataset in search for answers to the following key questions:
 
 - **What is the distribution of mental health patients by gender?**
@@ -53,7 +50,7 @@ From the analysis, the following key insights were observed:
 - Family History: A significant proportion of respondents do not have a history of mental health issues in their families, pointing to other factors influencing their mental health.
 - Gender Bias in Participation: The survey responses show a higher proportion of male respondents, which may indicate either a gender bias in the data or a higher level of participation from male employees.
 
-## Challenges Ecncountered
+## Challenges Encountered
 Some of the challenges encountered while carrying out this project include:
 
 - **Handling Missing Values:** Properly imputing missing data without introducing bias.
